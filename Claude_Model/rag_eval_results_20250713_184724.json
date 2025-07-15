@@ -1,0 +1,1352 @@
+[
+  {
+    "question": "How is Amazon addressing diversity and inclusion?",
+    "gold_answer": "The company outlines diversity goals and provides workforce demographic data, aiming to improve representation and inclusion across all levels.",
+    "pred_answer": "Based on the information provided in Amazon's 2024 10-K report, Amazon is taking the following actions related to diversity and inclusion:\n\n- Amazon states that diversity and inclusion are core to their business. \n\n- They monitor pay equity and career progress across multiple dimensions, as reported in their Global Diversity and Inclusion Reports.\n\n- Amazon encourages every person at the company to play an active role in creating an inclusive environment.\n\nHowever, the 10-K does not provide extensive details on Amazon's specific diversity and inclusion initiatives and programs. It mentions diversity and inclusion at a high level as being important to the company, but does not elaborate on concrete actions Amazon is taking in this area as of 2024. The report focuses more on employee total compensation, benefits and wellbeing programs rather than providing an in-depth discussion of diversity and inclusion efforts.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What was Alphabet’s total liquidity (cash + marketable securities) at the end of 2024?",
+    "gold_answer": "$110.9 billion.",
+    "pred_answer": "According to the information provided, as of December 31, 2024, Alphabet had $95.7 billion in cash, cash equivalents, and short-term marketable securities.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Microsoft's strategic priorities for the next fiscal year?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the Management's Discussion and Analysis section of Microsoft's 2024 10-K filing, a few key strategic priorities and focus areas for the next fiscal year seem to be:\n\n1. Continuing to grow Microsoft Cloud revenue, which increased 23% in fiscal 2024. This includes growth in areas like Office 365 Commercial, Dynamics 365, Azure and other cloud services.\n\n2. Investing in cybersecurity through the Secure Future Initiative launched in 2023 and expanded in 2024. The initiative focuses on secure by design principles, secure by default settings, and continuous improvement of security operations.\n\n3. Advancing their sustainability commitments to be carbon negative, water positive, and zero waste by 2030. The 2024 Environmental Sustainability Report highlighted progress in some areas like reducing operational emissions and accelerating carbon removal, while noting more work is needed on reducing indirect Scope 3 emissions and water usage.\n\n4. Leveraging new technologies like generative AI to drive innovation and meet evolving customer needs, while doing so responsibly. \n\nSo in summary, cloud growth, cybersecurity, sustainability, and responsible AI innovation appear to be some of the key strategic priorities called out for the upcoming fiscal year based on the forward-looking discussion in their 10-K MD&A section. However, the excerpts don't provide an exhaustive list of all strategic focus areas.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What were Amazon's major R&D investments in 2024?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "Based on the information provided in Amazon's 2024 10-K report, a few key things stand out regarding their major R&D investments in 2024:\n\n1. Amazon continued to make significant investments in technology infrastructure, with the majority of this supporting growth of the AWS business. The 10-K states that cash capital expenditures, which primarily reflect investments in technology infrastructure, were $77.7 billion in 2024. This was an increase from $48.1 billion in 2023.\n\n2. In 2024, Amazon invested a total of $4.05 billion in Anthropic, an artificial intelligence company, through convertible notes. They invested $2.75 billion in Q1 2024 in a second convertible note, and in Q4 2024 invested another $1.3 billion in a third note, with an agreement to invest an additional $2.7 billion by Q4 2025. \n\n3. While specific R&D expense figures for 2024 are not provided, the \"Technology and infrastructure\" line item on their income statement, which captures a significant portion of R&D, was $88.5 billion in 2024, up from $85.6 billion in 2023. This suggests continued heavy investment in technology and innovation.\n\nSo in summary, the 10-K indicates Amazon's major R&D investments in 2024 centered around expanding their technology infrastructure especially for AWS, and making substantial investments in the AI company Anthropic. Overall technology and R&D spending appeared to continue increasing significantly year-over-year.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Which new technologies did Amazon focus on developing?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided, some of the key new technologies Amazon focused on developing included:\n\n- Advances in artificial intelligence (AI) and machine learning to improve the user experience on the internet. The passage states \"We believe that advances in technology, specifically the speed and reduced cost of processing power, data storage and analytics, improved wireless connectivity, and the practical applications of artificial intelligence and machine learning, will continue to improve users' experience on the internet and increase its ubiquity in people's lives. To best take advantage of these continued advances in technology, we are investing in AWS, which offers a broad set of on-demand technology services, including compute, storage, database, analytics, and machine learning...\"\n\n- Safety technologies and engineering solutions, such as vehicle safety controls and ergonomic solutions, to improve safety for Amazon employees. The passage notes \"safety is integral to everything we do at Amazon and we continue to invest in safety improvements such as capital improvements, new safety technology, vehicle safety controls, and engineering ergonomic solutions.\"\n\nSo in summary, AI/machine learning to enhance the customer experience, AWS cloud computing technologies, and new safety technologies were some of the key areas of technological development Amazon focused on, based on the excerpts provided. The passage does not go into more specific detail on the exact new technologies being developed in each of those areas.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Alphabet approach ethical supply chain management?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided, I did not find specific details about how Alphabet approaches ethical supply chain management. The passages mention that Alphabet relies on third parties to supply components and distribute products and services, and that their business could be negatively impacted if they are unable to engage with companies that have the necessary capabilities or capacity on reasonable terms. However, it does not go into Alphabet's specific practices or policies around ensuring their supply chain operates ethically. The text acknowledges potential supply chain risks and disruptions, but does not elaborate on Alphabet's approach to managing ethics across their suppliers and distributors. I would need more targeted information to be able to confidently characterize Alphabet's ethical supply chain management practices.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What does Amazon identify as a legal risk related to AI use?",
+    "gold_answer": "AI-related content generation and decision-making expose Amazon to reputational, legal, and ethical liabilities, especially if AI tools are misused or produce biased outcomes .",
+    "pred_answer": "According to the excerpt from Amazon's 10-K filing, Amazon identifies the following legal risks related to AI use:\n\nSome AI scenarios present ethical issues or may have broad impacts on society. If Amazon enables or offers AI solutions that have unintended consequences, unintended usage or customization by customers and partners, are contrary to Amazon's responsible AI policies and practices, or are otherwise controversial because of their impact on human rights, privacy, employment, or other social, economic, or political issues, Amazon's reputation, competitive position, business, financial condition, and results of operations may be adversely affected.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is the revenue from the Productivity and Business Processes segment?",
+    "gold_answer": " $79.8 billion in 2024, compared to $73.4 billion in 2023 .",
+    "pred_answer": "According to the segment information provided, the revenue from the Productivity and Business Processes segment was:\n\n$77,728 million in fiscal year 2024\n$69,274 million in fiscal year 2023\n\nThe Productivity and Business Processes segment revenue increased by 12% from fiscal year 2023 to fiscal year 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What long-term growth opportunities does Amazon highlight?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the excerpt from Amazon's 10-K filing, some key long-term growth opportunities Amazon highlights include:\n\n1. Increasing sales of products and services across their online and physical stores by expanding product selection across numerous categories. \n\n2. Offering additional services such as compute, storage, database, fulfillment, advertising, publishing, and digital content subscriptions.\n\n3. Investing in longer-term strategic initiatives, including capital expenditures focused on improving the customer experience. \n\n4. Advances in technology, specifically the speed and reduced cost of processing power, data storage and analytics, improved wireless connectivity, and the practical applications of artificial intelligence and machine learning. Amazon is investing in AWS to take advantage of these technology advances.\n\n5. Expanding into new and existing product categories and service offerings.\n\nSo in summary, Amazon sees opportunities for long-term growth through increasing product and service sales, strategic investments to enhance the customer experience, leveraging advances in technology through AWS, and entering new product and service categories. Their financial focus is on driving sustainable long-term growth in free cash flows through these initiatives.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Amazon have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "According to the information provided, as of December 31, 2024, Amazon employed approximately 1,556,000 full-time and part-time employees.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How much did Microsoft spend on share repurchases in 2024?",
+    "gold_answer": "$25.5 billion through its stock repurchase program.",
+    "pred_answer": "According to the information provided, Microsoft repurchased 32 million shares of common stock for a total of $11,960 million under its share repurchase program during the year ended June 30, 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What governance risks does Alphabet highlight in their 10-K?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "Based on the excerpts from Alphabet's 2024 10-K filing, some key governance risks that Alphabet highlights include:\n\n1. Alphabet's dual class capital structure concentrates voting control with its founders, which limits the ability of other stockholders to influence corporate matters. This governance structure could adversely affect the trading price of Alphabet's Class A common stock.\n\n2. Provisions in Alphabet's charter documents and Delaware law could discourage a takeover attempt, which may reduce the likelihood that stockholders receive a premium for their shares. \n\n3. Alphabet's certificate of incorporation prohibits cumulative voting in director elections. This limits the ability of minority stockholders to elect director candidates.\n\n4. Stockholders must provide advance notice to nominate board candidates or propose matters for stockholder meetings. These provisions may discourage potential acquirers from attempting to obtain control of Alphabet.\n\nIn summary, Alphabet's governance structure, with super-voting shares held by the founders and anti-takeover provisions, poses risks in terms of concentrating control and potentially limiting the rights and influence of public stockholders. The 10-K flags these as risk factors for investors to consider.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Alphabet have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "According to the information provided, as of December 31, 2024, Alphabet had 183,323 employees.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are the primary revenue streams beyond advertising?",
+    "gold_answer": " Consumer subscriptions (YouTube Premium, Google One), hardware (Pixel devices), and Google Play transactions.",
+    "pred_answer": "Based on the information provided, Alphabet's primary revenue streams beyond advertising include:\n\n1. Google subscriptions, platforms, and devices - This includes revenues from products and services like Google Play, hardware devices, and YouTube subscriptions. In 2024, this segment generated $40.3 billion in revenue.\n\n2. Google Cloud - Revenues from Google's cloud computing services and solutions. Google Cloud brought in $43.2 billion in 2024. \n\n3. Other Bets - Revenues from Alphabet's other earlier-stage businesses outside of Google, which are operated independently. In 2024, Other Bets generated $1.6 billion, primarily from the sale of healthcare-related services and internet services.\n\nSo in summary, while advertising remains Alphabet's largest revenue source, the company has been growing significant non-advertising businesses, especially in cloud computing, subscriptions and hardware devices. Google Cloud in particular has become a major revenue driver beyond the core ads business.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What portion of total revenue came from Google Cloud?",
+    "gold_answer": "$37.4 billion — roughly 10.6% of total revenues.",
+    "pred_answer": "Based on the financial results presented in the context, Google Cloud revenues were $43,229 million in 2024, out of total Alphabet revenues of $350,018 million in 2024.\n\nTo calculate the portion of total revenue that came from Google Cloud, we can divide the Google Cloud revenue by the total revenue:\n\n$43,229 million / $350,018 million = 0.1235 or 12.35%\n\nSo in 2024, Google Cloud accounted for approximately 12.35% of Alphabet's total revenues.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How did Amazon respond to competitive threats in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "The provided excerpts from Amazon's 2024 10-K filing do not contain specific information about how Amazon responded to competitive threats in 2024. The excerpts discuss some legal proceedings Amazon was involved in, provide forward-looking guidance for Q1 2025, and mention seasonality impacts on the business, but do not go into details about Amazon's competitive responses during the 2024 fiscal year. I do not have enough context to determine Amazon's specific actions in response to competition based solely on the information provided.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft differentiate its product offerings?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the excerpts, Microsoft differentiates its product offerings in a few key ways:\n\n1. Offering a wide range of products and services across different segments, including Productivity and Business Processes (Office products, Dynamics, LinkedIn), Intelligent Cloud (server products, cloud services like Azure), and More Personal Computing (Windows, devices, gaming, search advertising). This allows Microsoft to serve diverse customer needs.\n\n2. Providing products through different channels and licensing models to suit customer preferences. For example, Windows is licensed to OEMs to pre-install on devices, offered through volume licensing to enterprises, and provided as cloud services. Office is available as on-premises software and cloud-based services like Office 365.\n\n3. Tailoring offerings for different customer segments, such as Windows having different pricing and versions for consumers, small businesses and large enterprises. \n\n4. Enabling an ecosystem of partners, such as OEMs, resellers, system integrators, who can build on and add value to Microsoft's core products.\n\n5. Investing in emerging technology areas like AI, mixed reality, gaming subscriptions and cloud gaming to differentiate its offerings.\n\nSo in summary, Microsoft leverages its broad product portfolio, flexible delivery models, segmented offerings, partner ecosystem and innovation in key areas to differentiate itself in the market. The ability to provide integrated, best-of-breed solutions across productivity, cloud and computing needs seems to be a key differentiator.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How is Amazon investing to support future expansion?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Amazon's 2024 Annual Report, the company is investing in several key areas to support future expansion:\n\n1. Technology infrastructure, especially to support growth of the AWS business. The report states that cash capital expenditures, which primarily reflect investments in technology infrastructure, are expected to increase in 2025.\n\n2. Additional capacity in Amazon's fulfillment network. Investments are being made to expand the fulfillment network to support growth.\n\n3. Acquisitions and investments in other companies. In 2023-2024, Amazon made cash payments related to acquisitions and investments, including acquiring One Medical in 2023 and investing in convertible notes from Anthropic totaling over $4 billion in 2023-2024 with plans to invest an additional $2.7 billion by Q4 2025. \n\n4. Hiring in key areas like computer scientists, designers, software and hardware engineers, and merchandising employees. The report indicates spending on technology and infrastructure headcount is expected to increase over time.\n\nSo in summary, Amazon is heavily investing in its technology, infrastructure, fulfillment capacity, strategic acquisitions and talent to enable and support the company's future growth and expansion plans across its business segments. The large investments in AWS and AI company Anthropic stand out as major priorities.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is Amazon's market share in its primary business segments?",
+    "gold_answer": "The company identifies major competitors and outlines strategic advantages, such as technology leadership and global scale.",
+    "pred_answer": "Amazon does not disclose specific market share figures in its 10-K filing. The 10-K discusses Amazon's business being organized into three primary segments - North America, International, and Amazon Web Services (AWS), but it does not provide market share percentages for those segments.\n\nThe 10-K focuses more on Amazon's overall business strategy, financial results, risk factors, and other required disclosures. While it's clear Amazon has a very significant presence in e-commerce and cloud computing, the exact market share is not stated. Market share estimates would likely need to come from third-party market research firms rather than Amazon's own financial reporting.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Microsoft have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "The excerpts provided do not contain information about the total number of Microsoft employees at the end of fiscal year 2024. The employee count is not listed in the overview or highlights sections discussing Microsoft's fiscal 2024 results compared to 2023.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Alphabet approach ethical supply chain management?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided, I did not find specific details on how Alphabet approaches ethical supply chain management. The passages mention that Alphabet relies on third parties to supply components and distribute products and services, and that their business could be negatively impacted if they are unable to engage with companies that have the necessary capabilities or if those companies fail to meet their obligations. However, it does not go into Alphabet's specific approach or policies around ensuring their supply chain operates ethically. The text acknowledges potential supply chain risks but does not elaborate on how Alphabet proactively manages ethics across their suppliers and distributors. More context would be needed to determine Alphabet's strategy and practices in this area.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What were Microsoft's major R&D investments in 2024?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "According to the information provided, Microsoft's research and development expenses increased by $2.3 billion or 9% in fiscal year 2024 compared to 2023. The major areas driving this increase were:\n\n1. Gaming, with 7 percentage points of the R&D expense growth coming from the Activision Blizzard acquisition. \n\n2. Investments in cloud engineering.\n\nSo Microsoft's key R&D focus areas in 2024 based on the expense growth were gaming, driven significantly by the Activision Blizzard acquisition, and continued investments in their cloud engineering and services.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How might future environmental regulations impact Alphabet’s infrastructure?",
+    "gold_answer": "Stricter carbon and energy policies may increase the cost of running Alphabet’s data centers and delay progress toward its net-zero goals.",
+    "pred_answer": "Based on the information provided in the 10-K filing, a few key points about how future environmental regulations could impact Alphabet's infrastructure:\n\n1. Alphabet is subject to evolving sustainability regulatory requirements and expectations, which exposes the company to increased costs and legal/reputational risks. Laws and regulations related to environmental, social and governance matters are being developed in Europe, the U.S. and elsewhere.\n\n2. Alphabet relies on third parties to supply components and distribute its products and services. The company's business could be negatively impacted if it is unable to engage suppliers and distributors with the necessary capabilities or capacity on reasonable terms, or if those engaged fail to meet their obligations or make adverse pricing/terms changes. \n\n3. Alphabet has established public goals and commitments around becoming carbon negative, water positive, zero waste, and protecting land. Failure or perceived failure to pursue or fulfill these sustainability goals and commitments, or to satisfy various sustainability reporting standards or regulatory requirements, could result in claims, lawsuits, regulatory actions, or reputational damage.\n\nIn summary, evolving environmental regulations, especially around climate change, water use, and waste, could increase costs and risks for Alphabet's infrastructure and supply chain. The company will need to work to meet new regulatory requirements while also delivering on its own ambitious sustainability commitments to avoid legal issues or damage to its reputation. Managing relationships with suppliers and distributors to ensure their compliance will also be important.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What were Microsoft's major R&D investments in 2024?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "According to the information provided, Microsoft's research and development expenses increased by $2.3 billion or 9% in fiscal year 2024 compared to 2023. The major areas of R&D investment were:\n\n1. Gaming, which accounted for 7 percentage points of the 9% total R&D expense growth, driven by the Activision Blizzard acquisition. \n\n2. Investments in cloud engineering.\n\nThe excerpt does not provide more specific details on the R&D focus areas beyond gaming and cloud, but those were called out as the key drivers of the increased R&D spend in fiscal 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Microsoft have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "The excerpts provided do not contain information about the total number of Microsoft employees at the end of fiscal year 2024. The employee count is not listed in the overview or highlights sections discussing Microsoft's fiscal 2024 results compared to 2023.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon define its key competitors?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Amazon's 10-K filing, the company identifies several key competitors across its various business segments:\n\n1. Retail companies, including both physical and online retailers\n2. Publishers, producers, and distributors of physical, digital, and interactive media \n3. Web search engines, comparison shopping websites, social networks, and web portals\n4. Companies that provide e-commerce services, including website development and hosting\n5. Companies that provide fulfillment and logistics services \n6. Companies that provide information technology services or products, including cloud-based infrastructure, tools and services relating to artificial intelligence\n7. Companies that design, manufacture, market, or sell consumer electronics, communications, and other electronic devices\n8. Companies that sell grocery products online and in physical stores\n9. Companies that provide advertising services, whether in digital or other formats\n10. Providers of virtual or in-person healthcare services\n\nThe filing states that some of Amazon's current and potential competitors have greater resources, longer histories, more customers, greater brand recognition, and greater control over inputs critical to Amazon's various businesses. Key competitors are not named specifically, but this broad description covers major tech companies like Apple, Google, Microsoft, Meta, as well as large retailers like Walmart.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How much did Microsoft invest in R&D in 2024?",
+    "gold_answer": "$28.5 billion, reflecting increased focus on AI model development and integration.",
+    "pred_answer": "According to Microsoft's 2024 Form 10-K, research and development expenses were $28.7 billion in fiscal year 2024, an increase of $2.3 billion or 9% compared to fiscal year 2023. The increase was driven by investments in Gaming, with 7 points of growth from the Activision Blizzard acquisition, and investments in cloud engineering.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What differentiates Google Cloud from AWS and Azure?",
+    "gold_answer": "Strong integration of proprietary AI models (e.g., Gemini), focus on privacy/security, and competitive pricing.",
+    "pred_answer": "Based on the information provided, there are a few key things that differentiate Google Cloud from competitors like AWS and Azure:\n\n1. Google Cloud offers AI-optimized infrastructure that provides open, reliable, and scalable compute, networking, and storage to enable customers to build, test, and deploy applications on Google's infrastructure.\n\n2. Google Cloud provides a suite of cloud-based productivity and collaboration tools through Google Workspace, including products like Gmail, Docs, Drive, Calendar, Meet, etc. This is a differentiator from AWS in particular.\n\n3. The passage mentions Google Cloud is investing heavily in building out enterprise-ready cloud services through Google Cloud Platform and Google Workspace, and is advancing its AI platforms and models to support these offerings. The AI capabilities seem to be an area of focus and potential differentiation.\n\n4. It's implied that pricing, including platform and infrastructure pricing, is an area of competition between Google Cloud and rivals as they rapidly develop and deploy cloud services. Google may be trying to differentiate on price.\n\nHowever, the passage does not provide a detailed comparison of specific product capabilities between Google Cloud, AWS and Azure. The key points are Google's focus on AI-optimized infrastructure, its Google Workspace productivity suite, and investments in enterprise services and AI as potential differentiators. But more information would be needed to comprehensively compare the platforms.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon evaluate CEO performance and incentives?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Amazon's 2024 annual report, the Compensation Committee of Amazon's Board of Directors evaluates the performance and determines the compensation of the CEO and other named executive officers.\n\nThe report states that the Compensation Committee relies on numerous and evolving initiatives to implement Amazon's objective to be Earth's best employer, including competitive pay and benefits. However, it does not provide specific details on how the CEO's performance is evaluated or what metrics are used to determine incentives.\n\nThe report mentions that stock-based compensation is a key element of Amazon's compensation program, but does not elaborate on how this is determined for the CEO specifically. Overall, while the report indicates the Compensation Committee is responsible for CEO evaluation and compensation, it does not disclose the specific criteria, metrics or process used for the CEO's performance assessment and incentives. More granular details are not provided in the excerpted portions of the annual report.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Alphabet's main sustainability priorities?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the 10-K filing, Alphabet's main sustainability priorities are:\n\n1. Improving biodiversity and protecting more land than they use.\n\n2. Reducing their indirect emissions (Scope 3). The filing notes they are not yet on track with this goal and are working to identify additional breakthroughs to achieve it.\n\n3. Reducing their water use and replenishing more water than they consume in their data center operations. The filing also states they are not yet on track with this water-related goal.\n\nSo in summary, Alphabet's key sustainability focus areas are biodiversity/land protection, reducing Scope 3 emissions, and reducing water usage/increasing water replenishment, with the latter two being areas where more progress is still needed to meet their goals. The filing indicates they are intensively engaged in work to make additional breakthroughs in the emissions and water goals that are not yet on track.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What legal concerns does Alphabet raise about AI misuse?",
+    "gold_answer": "The company is concerned about legal and reputational risks from biased or inaccurate outputs generated by its AI models.",
+    "pred_answer": "Based on the excerpts provided, Alphabet raises several legal concerns related to potential AI misuse:\n\n1. Current and proposed legislation and regulations around AI, such as the European Union's AI Act and the U.S.'s AI Executive Order, may increase compliance costs and legal risks for the company.\n\n2. AI systems that have unintended consequences, unintended usage, or are controversial because of their impact on human rights, privacy, employment or other social issues could harm Alphabet's reputation and business. \n\n3. AI training and output could lead to copyright infringement and other intellectual property claims against Alphabet.\n\n4. At the U.S. federal and state level, proposals and laws are being considered to regulate AI-generated synthetic media like \"deepfakes\".\n\n5. Improper implementation of AI systems by Alphabet could subject the company to regulatory action, legal liability under existing and new laws related to data protection, privacy, intellectual property etc., as well as reputational harm.\n\nIn summary, Alphabet is concerned that misuse or controversial applications of AI, as well as an evolving legal and regulatory landscape around the technology, could expose the company to significant legal risks and reputational damage.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What major lawsuits or regulatory actions did Alphabet disclose?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the 10-K excerpts, Alphabet disclosed the following major lawsuits and regulatory actions:\n\n- Search: The U.S. Department of Justice (DOJ) and several state Attorneys General filed a lawsuit in 2020 alleging Google violated U.S. antitrust laws relating to Search. A trial occurred in 2024 with a decision expected in the second half of 2025. The Australian Competition and Consumer Commission and Japanese Fair Trade Commission also opened investigations into Search distribution practices.\n\n- Advertising Technology: In 2020, state Attorneys General filed a lawsuit alleging Google violated U.S. antitrust and state deceptive trade laws relating to its ad technology. In 2023, the DOJ and state AGs filed another lawsuit on this issue, with a trial ending in September 2024 and a decision expected in early 2025. The European Commission also issued a Statement of Objections in June 2023 alleging Google violated European antitrust laws relating to its ad technology. \n\n- Google Play: In July 2021, state Attorneys General filed a lawsuit alleging Google's conduct relating to Google Play violated U.S. antitrust laws.\n\nThe disclosures note Alphabet is cooperating with these investigations and defending the litigation where appropriate. However, given the nature of the matters, Alphabet stated it cannot estimate possible losses.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What regulatory risks does AWS face in China and India?",
+    "gold_answer": "AWS operates under different local laws in China and India, including data sovereignty requirements and cybersecurity frameworks, which can restrict cloud service offerings and lead to compliance costs .",
+    "pred_answer": "Based on the information provided, Amazon faces the following regulatory risks for its AWS business in China and India:\n\nIn China, Amazon must provide certain technology services through contractual relationships with third parties that hold PRC licenses, in order to meet local ownership, regulatory licensing, and cybersecurity requirements. This indicates China places restrictions on foreign companies directly operating internet and data center services.\n\nIn India, the government restricts the ownership or control of Indian companies by foreign entities involved in online multi-brand retail trading activities. While this is mentioned in the context of Amazon's www.amazon.in retail marketplace, it suggests India also places limitations on foreign ownership and control in online sectors, which could potentially impact AWS.\n\nSo in summary, the key regulatory risks are:\n1) In China, AWS likely needs to operate through local partners and cannot directly own data centers/networks \n2) In India, there may be restrictions on foreign ownership and control that limit how AWS can structure its business\n\nThe passage indicates Amazon believes its current structures comply with existing laws, but that new regulations could impact its ability to operate in these countries. Navigating the evolving regulations in China and India appears to be a key compliance challenge and risk area for Amazon's international expansion, including for AWS.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is the independence ratio of Alphabet's board of directors?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "Based on the information provided in the excerpts, Alphabet's proxy statement will include details on director independence, but that proxy statement has not been filed yet (it will be filed within 120 days of December 31, 2024). The excerpts do not specify the current ratio or number of independent directors on Alphabet's board.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Amazon’s three main reportable segments?",
+    "gold_answer": "North America, International, and AWS .",
+    "pred_answer": "According to the 10-K, Amazon's three main reportable segments are:\n\n1. North America\n2. International  \n3. Amazon Web Services (AWS)\n\nThe 10-K states: \"We have organized our operations into three segments: North America, International, and Amazon Web Services (\"AWS\"). These segments reflect the way the Company evaluates its business performance and manages its operations.\"",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What were Microsoft's major R&D investments in 2024?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "According to the information provided, Microsoft's research and development expenses increased by $2.3 billion or 9% in fiscal year 2024 compared to 2023. The major areas driving this increase were:\n\n1. Gaming, with 7 percentage points of the R&D expense growth coming from the Activision Blizzard acquisition. \n\n2. Investments in cloud engineering.\n\nSo Microsoft's major R&D investments in 2024 appear to have been focused on gaming, driven significantly by the Activision Blizzard acquisition, as well as continued investments in their cloud engineering and services.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What major lawsuits or regulatory actions did Amazon disclose?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the excerpts from Amazon's 2024 10-K filing, the company disclosed the following major lawsuits and regulatory actions:\n\n1. In May 2018, Rensselaer Polytechnic Institute and CF Dynamic Advances LLC filed a patent infringement complaint against Amazon related to Alexa technology. The plaintiffs are seeking $140-267 million in damages. \n\n2. In December 2018, Kove IO, Inc. filed a patent infringement complaint against Amazon Web Services. The details of the complaint and potential damages are not provided.\n\n3. Amazon faces a number of open investigations in the U.S., Europe and globally based on claims that aspects of its operations, including its stores, fulfillment network, Prime, and AWS cloud services, infringe on competition or consumer protection rules. \n\n4. Several private antitrust lawsuits have been filed against Amazon alleging it has monopoly power and has engaged in anticompetitive conduct. The complaints seek billions in damages. The FTC and state Attorneys General filed a similar lawsuit in 2023.\n\n5. In July 2021, the Luxembourg National Commission for Data Protection issued a decision against an Amazon subsidiary for violating GDPR, imposing a €746 million fine. \n\n6. In December 2021, the Italian Competition Authority issued a decision against several Amazon subsidiaries for infringing EU competition rules, imposing a €1.13 billion fine.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Alphabet's major goals for 2025 and beyond?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the excerpts, I did not find any specific details about Alphabet's major goals for 2025 and beyond. The excerpts discuss some of Alphabet's past and current focuses, such as being an AI-first company, organizing the world's information, and helping people get things done. However, there are no forward-looking statements about major goals or initiatives for 2025 or later years. The excerpts appear to be from Alphabet's 2024 10-K filing which reports on the prior fiscal year, rather than outlining long-term future plans. So in summary, I do not have enough information from the given context to determine what Alphabet's major goals are for 2025 and beyond.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What principles guide Alphabet’s approach to AI development?",
+    "gold_answer": "Alphabet follows its AI Principles, focusing on responsible development aimed at maximizing positive societal impact.",
+    "pred_answer": "Based on the information provided in the 10-K filing excerpts, a few key principles seem to guide Alphabet's approach to AI development:\n\n1. Being an AI-first company and investing heavily in AI research and development. The filing states that since 2016, Alphabet has been an \"AI-first company\" and they continue AI-related research and development.\n\n2. Expanding access to AI models and infrastructure to enable others to innovate with AI. It mentions providing advanced computing infrastructure and expanding access to Google's latest AI models through platforms like Vertex AI. \n\n3. Transforming their own products with AI to provide users helpful tools for knowledge, learning, creativity and productivity. Examples cited include AI Overviews, NotebookLM, and integrating generative AI capabilities into apps like Gemini.\n\n4. Recognizing and navigating the risks, challenges and regulatory landscape around AI development. The filing acknowledges risks like flawed algorithms, biased datasets, harmful AI-generated content, and the evolving legal/regulatory environment that could impact AI adoption and their business.\n\nSo in summary, the key principles seem to be pioneering AI development as a core focus, democratizing access to enable AI innovation, applying AI to enhance their own products, while being cognizant of and aiming to responsibly navigate the risks and regulatory considerations with AI. However, the excerpts don't provide Alphabet's fully articulated AI principles or guidelines.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What environmental initiatives did Alphabet implement in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the context provided, it does not appear that Alphabet implemented any specific new environmental initiatives in 2024. The passage mentions that in May 2024, Alphabet released an Environmental Sustainability Report looking back at their progress in fiscal year 2023 on previous sustainability commitments made in 2020. However, no new 2024 initiatives are described. The report indicated they were on track in some areas like reducing operational emissions, accelerating carbon removal, minimizing waste, and improving biodiversity, but were not yet on track for reducing indirect Scope 3 emissions and reducing water use in data centers.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What cybersecurity risks does Amazon acknowledge?",
+    "gold_answer": "Amazon cites vulnerabilities, third-party software flaws, and state-sponsored attacks as growing concerns, particularly for AWS and customer-facing platforms .",
+    "pred_answer": "Based on the information provided, Amazon acknowledges the following cybersecurity risks:\n\n- Amazon faces a number of open investigations based on claims that aspects of its operations, including Amazon's stores, fulfillment network, Prime, and certain aspects of AWS's cloud services, infringe on competition or consumer protection rules. Amazon strongly disputes these claims.\n\n- Amazon faces investigations under laws and regulations governing the collection, use, and disclosure of data. The interpretation of these laws continues to evolve, leading to uncertainty about how regulators will view Amazon's privacy practices. \n\n- Regulators and lawmakers are increasingly focused on controlling additional aspects of the operations of technology companies through the application of existing regulations and laws and the adoption of new ones. This increases Amazon's compliance costs and limits the operation of its business.\n\n- Amazon utilizes incident response plans when it experiences a cybersecurity incident. After incidents are resolved, a comprehensive post-incident review process is conducted.\n\n- Amazon acknowledges that the cybersecurity threat environment is increasingly challenging, and that Amazon, along with the entire digital ecosystem, are under constant and increasing threat from cybersecurity risks.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon describe its remote or hybrid work strategy?",
+    "gold_answer": "The company plans to expand cloud services, strengthen AI offerings, and increase global market presence over the next few years.",
+    "pred_answer": "Based on the excerpts provided, there is no clear information about Amazon's remote or hybrid work strategy. The passages mention that Amazon employs a large number of full-time and part-time employees, and that it strives to be Earth's best employer by relying on initiatives like competitive pay and benefits, flexible work arrangements, and skills training programs. However, it does not go into specifics about a remote or hybrid work approach. The information provided focuses more on Amazon's overall workforce and talent development efforts rather than detailing its remote work policies.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What differentiates Microsoft’s AI offerings from competitors?",
+    "gold_answer": "Integration with enterprise tools, partnership with OpenAI, and Azure infrastructure scalability.",
+    "pred_answer": "Based on the information provided in the excerpts, a few key things differentiate Microsoft's AI offerings from competitors:\n\n1. Microsoft is enabling a hybrid cloud approach, allowing deployment of existing datacenters with their public cloud into a single, cohesive infrastructure. This hybrid capability and ability to run at scale to meet the needs of businesses of all sizes is noted as a competitive advantage for Azure vs competitors like Amazon, Google, IBM, Oracle.\n\n2. Microsoft is integrating AI into many of their own offerings, including productivity services, while also making AI available for customers to use in solutions they build themselves. Microsoft envisions a future where AI in devices, applications and the cloud helps make customers more productive.\n\n3. Microsoft has a strategic partnership with OpenAI to make OpenAI's AI technologies available, in addition to Microsoft's own AI development. Other competitors mentioned developing AI include Amazon, Google, Anthropic, Meta, and open source offerings.\n\n4. The excerpts note Microsoft's focus on developing and deploying AI responsibly, and being mindful of potential risks and challenges with AI around areas like flawed algorithms, biased datasets, offensive content generation, and legal/regulatory issues that could impair adoption if not managed properly.\n\nSo in summary, Microsoft's hybrid cloud capabilities, integration of AI across their products, partnership with OpenAI, and stated commitment to responsible AI development and deployment are some of the key differentiators called out, compared to competitors' AI offerings.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What major lawsuits or regulatory actions did Alphabet disclose?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the 10-K excerpts, Alphabet disclosed the following major lawsuits and regulatory actions:\n\n- Search: The U.S. Department of Justice (DOJ) and several state Attorneys General filed a lawsuit in 2020 alleging Google violated U.S. antitrust laws relating to Search. A trial occurred in 2024 with a decision expected in the second half of 2025. The Australian Competition and Consumer Commission and Japanese Fair Trade Commission also opened investigations into Search distribution practices.\n\n- Advertising Technology: In 2020, state Attorneys General filed a lawsuit alleging Google violated U.S. antitrust and state deceptive trade laws relating to its ad technology. The DOJ and state AGs filed another lawsuit in 2023, with a trial ending in September 2024 and a decision expected in early 2025. The European Commission also issued a Statement of Objections regarding Google's ad technology in June 2023. \n\n- Google Play: In July 2021, state Attorneys General filed a lawsuit alleging Google's conduct related to Google Play violated U.S. antitrust laws.\n\nThe disclosures note that given the nature of these matters, Alphabet cannot estimate possible losses at this time. The company is cooperating with the investigations and defending the litigation.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is the independence ratio of Alphabet's board of directors?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "Based on the information provided in the excerpts, Alphabet's proxy statement will include details on the independence of its board of directors under the section \"Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Director Independence\". However, the specific independence ratio is not provided in the given context. The proxy statement with this information will be filed with the SEC within 120 days after December 31, 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Amazon have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "According to the information provided, as of December 31, 2024, Amazon employed approximately 1,556,000 full-time and part-time employees.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft describe its remote or hybrid work strategy?",
+    "gold_answer": "The company plans to expand cloud services, strengthen AI offerings, and increase global market presence over the next few years.",
+    "pred_answer": "Based on the information provided in the excerpts from Microsoft's 10-K filing, Microsoft does not go into specifics about its own remote or hybrid work strategy for employees. The excerpts discuss Microsoft's products and services that enable its customers to support remote and hybrid work, such as:\n\n- Microsoft 365 which \"is an AI first platform that brings together Office, Windows, Copilot, and Enterprise Mobility + Security to help organizations empower their employees.\"\n\n- Microsoft Teams which \"is a comprehensive platform for communication and collaboration, with meetings, calling, chat, file collaboration, and the ability to bring all of the applications teams use into a single place.\"  \n\n- Microsoft Viva which \"is an employee experience platform that brings together communications, knowledge, learning, resources, and insights.\"\n\nHowever, the provided excerpts do not contain information about Microsoft's own internal policies or approach for enabling remote or hybrid work for its workforce. The focus is on the products Microsoft provides to help its customers enable remote/hybrid work.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Does Microsoft face any antitrust scrutiny?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Yes, Microsoft faces antitrust scrutiny from government agencies in the U.S. and other countries. A few key points from the 10-K:\n\n- Government agencies closely scrutinize Microsoft under U.S. and foreign competition laws. Governments are actively enforcing competition laws and regulations, including in the EU, UK, U.S., and China.\n\n- The European Commission has designated Windows and LinkedIn as core platform services subject to obligations under the EU Digital Markets Act, which prohibits certain self-preferencing behaviors and places limitations on certain data use. \n\n- The European Commission continues to closely scrutinize the design of high-volume Microsoft products and the terms on which Microsoft makes certain technologies used in these products available to other companies. Flagship products like Microsoft 365 and Windows can receive significant scrutiny under EU or other competition laws.\n\n- Microsoft is subject to formal and informal inquiries, investigations, and litigation on various competition matters by regulatory authorities and private parties in the U.S., Europe, and other jurisdictions globally.\n\nSo in summary, antitrust enforcement actions, investigations, and regulations targeting Microsoft's business practices are an ongoing legal risk the company faces, particularly in the U.S. and Europe. Government scrutiny of its market power and competitive practices remains high.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Does Amazon disclose its carbon footprint or climate risk?",
+    "gold_answer": "The company acknowledges climate risks and discloses initiatives to reduce emissions, including investment in renewable energy and carbon offsets.",
+    "pred_answer": "Yes, Amazon does disclose information about its carbon footprint and climate-related risks:\n\n- In the excerpt, it mentions that Amazon has set ambitious goals to achieve net-zero emissions and run on 100% carbon-free energy by 2030. This indicates Amazon is measuring and disclosing its carbon footprint.\n\n- The excerpt states that Amazon began implementing its carbon removals strategy in 2023 and has started contracting for carbon removal credits. This shows Amazon is taking actions to offset its carbon emissions.\n\n- It acknowledges that Amazon's total greenhouse gas emissions may rise before dropping toward its absolute emissions reduction target, indicating Amazon is tracking and disclosing its emissions over time.\n\n- The excerpt notes there are risks and uncertainties related to Amazon's sustainability work, which are further detailed in the Risk Factors section of the 10-K report. This suggests Amazon is identifying and disclosing climate-related risks it faces.\n\nSo in summary, while the level of detail is not fully clear from just this excerpt, it does indicate that Amazon is measuring its carbon footprint, setting emissions reduction targets, and disclosing climate-related information and risks in its annual 10-K report.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What was Microsoft’s cash and cash equivalents at the end of FY 2024?",
+    "gold_answer": "$34.7 billion as of June 30, 2024 .",
+    "pred_answer": "According to Microsoft's consolidated statement of cash flows, the cash and cash equivalents balance at the end of fiscal year 2024 was $18,315 million.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What legal contingencies are noted by Microsoft in the 10-K?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the excerpts provided from Microsoft's 10-K filing, a few key legal contingencies and risks are noted:\n\n1. Government enforcement actions and scrutiny under U.S. and foreign competition laws. The European Commission and other government agencies are actively enforcing competition laws and regulations that impact how Microsoft designs and markets its products. This includes designating Windows and LinkedIn as subject to obligations under the EU Digital Markets Act.\n\n2. Third party claims that Microsoft infringes their intellectual property rights, including copyright infringement claims arising from AI training and output. Resolving these claims may require entering into licensing agreements, redesigning products/services, or paying damages. Microsoft has paid significant amounts previously to settle claims related to use of technology and IP rights.\n\n3. Compliance with data protection laws and regulations in various jurisdictions regarding collection and use of customer and employee data. Non-compliance could result in penalties, orders to stop non-compliant activities, and difficulty competing with foreign firms. \n\n4. Unauthorized disclosure or access to Microsoft's source code could result in loss of trade secret protection and make it easier for third parties to copy functionality of Microsoft's products.\n\nSo in summary, the key legal contingencies called out relate to antitrust enforcement, intellectual property claims, data protection compliance, and protecting trade secrets. The 10-K notes the potential business and financial impacts if these risks materialize.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft differentiate its product offerings?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the excerpts, Microsoft differentiates its product offerings in a few key ways:\n\n1. Offering a wide range of products and services across different segments, including Productivity and Business Processes (Office products, Dynamics, LinkedIn), Intelligent Cloud (server products, cloud services like Azure), and More Personal Computing (Windows, devices, gaming, search advertising). This allows Microsoft to serve diverse customer needs.\n\n2. Providing products and services that span different platforms and devices, from PCs to mobile devices to gaming consoles to cloud. Microsoft aims to make its offerings available across the variety of interfaces people use to access technology.\n\n3. Licensing and partnership models that allow other companies to integrate Microsoft products into their own offerings. For example, the Microsoft Services Provider License Agreement allows hosting providers to license Microsoft software to provide hosted applications to their customers. This extends the reach of Microsoft's products.\n\n4. Offering subscription-based services like Microsoft 365 and Xbox Game Pass in addition to traditional licensed software. The subscription model provides recurring revenue streams.\n\n5. Investing in emerging technologies and high-growth areas like cloud computing, AI, gaming, and security to stay at the forefront of the industry. Acquisitions like Activision Blizzard in gaming also differentiate Microsoft's portfolio.\n\nSo in summary, the key differentiators seem to be Microsoft's broad yet integrated portfolio, availability across platforms, flexible partnership models, mix of licensing and subscriptions, and investments in growth areas. The goal appears to be meeting diverse enterprise and consumer needs at scale.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What operational risks does Amazon report for its fulfillment and logistics network?",
+    "gold_answer": "Labor shortages, weather events, and geopolitical instability can disrupt warehouse operations and last-mile delivery services .",
+    "pred_answer": "Based on the excerpts provided, Amazon reports a few key operational risks related to its fulfillment network and logistics:\n\n1. Failures to adequately predict customer demand and optimize/operate the fulfillment network effectively can result in excess or insufficient capacity, service interruptions, increased costs, and impairment charges, which could materially harm the business. \n\n2. As Amazon adds fulfillment capability or new businesses with different requirements, the fulfillment networks become increasingly complex and more challenging to operate effectively.\n\n3. Amazon relies on a limited number of shipping companies to deliver inventory and completed orders. Inability to negotiate acceptable terms with these companies or performance problems, staffing limitations or difficulties experienced by them could negatively impact Amazon's operating results and customer experience.\n\n4. Natural or human-caused disasters, extreme weather, geopolitical events, labor disputes and similar events could negatively affect Amazon's ability to receive inbound inventory efficiently and ship completed orders to customers.\n\n5. Inefficiencies or failures in Amazon's fulfillment operations could require Amazon to build or lease additional fulfillment centers or use third-party fulfillment services, which could increase costs and harm the customer experience.\n\nIn summary, the key risks relate to optimizing capacity, managing complexity, reliance on shipping partners, and potential disruptions that could impair fulfillment capabilities and increase costs. Failure to manage these risks could materially harm Amazon's business and reputation.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon describe competition for its AWS segment?",
+    "gold_answer": "Amazon states that AWS competes with firms like Microsoft, Google, and IBM in areas such as computing, storage, and AI services.",
+    "pred_answer": "Based on the 10-K excerpt, Amazon mentions that competition for qualified personnel, particularly for software engineers, computer scientists, and other technical staff, is intense. It also notes that constrained labor markets have increased competition for personnel across other parts of Amazon's business.\n\nHowever, the excerpt does not provide specific details about the competitive landscape for Amazon's AWS segment in terms of other cloud computing providers or services. The focus is more on competition for technical talent in general rather than AWS-specific competitive dynamics.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What environmental initiatives did Microsoft implement in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "According to Microsoft's 2024 Environmental Sustainability Report mentioned in the provided context, in fiscal year 2024 Microsoft made progress in several areas related to their sustainability commitments:\n\n1. They are on track in reducing their direct operational emissions (Scope 1 and 2). \n\n2. They are accelerating carbon removal.\n\n3. They are designing for circularity to minimize waste and reusing cloud hardware. \n\n4. They are improving biodiversity and protecting more land than they use.\n\nHowever, the report also noted two areas where Microsoft is not yet on track to meet their goals:\n\n1. Reducing their indirect emissions (Scope 3).\n\n2. Reducing water use and replenishing more water than they consume in datacenter operations.\n\nSo in summary, in 2024 Microsoft made progress on operational emissions, carbon removal, waste reduction, and biodiversity, but acknowledged they still have work to do on indirect emissions and water conservation to fully meet their sustainability commitments.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Amazon's strategic priorities for the next fiscal year?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "I do not have specific information about Amazon's strategic priorities for their next fiscal year. The provided excerpts from Amazon's financial filings discuss some general guidance and financial expectations for the first quarter of 2025, but do not lay out the company's strategic priorities in detail for the full fiscal year. The forward-looking statements mention factors like economic conditions, customer demand, growth of online commerce and cloud services that could impact results, but the excerpts do not specify Amazon's key strategic focus areas or initiatives for the upcoming year. I would need to see statements from Amazon's executive leadership or more comprehensive strategic planning documents to be able to say what their top priorities are for the next fiscal year.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Alphabet expect its revenue mix to shift?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the 10-K filing, Alphabet expects some shifts in its revenue mix over time:\n\n- For certain products and services that are shifting from one-time purchases to subscriptions or consumption-based models, the associated revenue will shift from being recognized at the time of the transaction to being recognized over the subscription period or upon consumption. \n\n- This indicates Alphabet expects some of its revenue to shift more towards recurring subscription and usage-based revenue, rather than one-time sales transactions.\n\nHowever, the excerpt does not provide specific quantitative expectations around how much Alphabet's overall revenue mix is expected to change. It simply notes this shift is expected to occur for certain unspecified products transitioning to subscriptions or consumption-based models. The degree of the anticipated shift is not stated.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What business units are included under AWS?",
+    "gold_answer": "Cloud computing, storage, AI infrastructure, developer tools, and enterprise services .",
+    "pred_answer": "Based on the information provided, AWS (Amazon Web Services) offers a broad set of on-demand technology services to developers and enterprises of all sizes. This includes services such as:\n\n- Compute\n- Storage \n- Database\n- Analytics\n- Machine learning\n- And other unspecified services\n\nThe excerpt mentions that technology infrastructure assets are allocated among Amazon's business segments based on usage, with the majority allocated to the AWS segment. It also states that Amazon is investing in AWS to offer this wide variety of on-demand technology services.\n\nHowever, no other specific business units or service offerings under the AWS umbrella are detailed in the provided context. The information focuses on AWS at a high level as a segment providing cloud computing services and technology infrastructure.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is the independence ratio of Amazon's board of directors?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "The excerpt does not provide the specific independence ratio of Amazon's board of directors. It mentions that information about director independence can be found under the \"Directors, Executive Officers, and Corporate Governance—Corporate Governance and Board Matters—Director Independence\" section of Amazon's 2025 Proxy Statement, but the details from that section are not included here. So based on the limited information provided, I do not have enough context to determine the exact independence ratio of Amazon's board.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What was Amazon’s cash and cash equivalents balance at the end of 2024?",
+    "gold_answer": "$73.4 billion as of December 31, 2024 .",
+    "pred_answer": "According to the consolidated statements of cash flows, Amazon's cash and cash equivalents balance was $13,931 million at the end of 2024.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What environmental initiatives did Microsoft implement in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "According to Microsoft's 2024 Environmental Sustainability Report mentioned in the provided context, Microsoft made progress in several areas related to their sustainability goals in fiscal year 2023:\n\n1. They are on track with reducing their direct operational emissions (Scope 1 and 2). \n\n2. They accelerated carbon removal efforts.\n\n3. They are designing for circularity to minimize waste and reusing cloud hardware. \n\n4. They are improving biodiversity and protecting more land than they use.\n\nHowever, the report also noted two areas where Microsoft is not yet on track to meet their goals:\n\n1. Reducing their indirect emissions (Scope 3).\n\n2. Reducing water use and replenishing more water than they consume in datacenter operations.\n\nSo in summary, Microsoft reported making good progress on several of their environmental initiatives in 2024, but acknowledged they still have work to do in fully achieving their Scope 3 emissions reduction and water conservation goals.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How do content moderation and misinformation affect Alphabet’s platform risk?",
+    "gold_answer": "Alphabet sees poor handling of misinformation on platforms like YouTube as a source of reputational damage, legal exposure, and potential fines.",
+    "pred_answer": "Based on the provided context, content moderation and misinformation can affect Alphabet's platform risk in a few key ways:\n\n1. Various laws covering content moderation and removal, such as the EU's Digital Services Act and laws in Florida, Texas, Singapore, Australia, and the UK, may make it harder for services like Google Search and YouTube to detect and deal with low-quality, deceptive, or harmful content. This could impact how Alphabet's platforms are viewed by users.\n\n2. Legislators are increasingly focused on regulating online child safety and content protections for minors. These regulations could result in Alphabet having to modify its products and services and incur additional costs to operate and monitor minors' experiences. \n\n3. Problematic content on Alphabet's platforms, including low-quality user-generated content, web spam, content farms, and other violations of their guidelines could affect the quality of their services, harm their reputation, and deter current and potential users from using their products.\n\n4. Alphabet faces sophisticated attempts by bad actors to manipulate its hosting and advertising systems to fraudulently generate revenues or traffic that does not represent genuine user interest. While Alphabet invests significantly to detect and prevent this, they may be unable to prevent all such abuses.\n\nIn summary, evolving content moderation regulations and ongoing challenges around low-quality content and misinformation pose risks to the user experience, reputation, and usage of Alphabet's key platforms like Google Search and YouTube. Managing these issues requires ongoing investment and product changes.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What regulatory challenges does Alphabet face in international markets like China and India?",
+    "gold_answer": "Alphabet notes that evolving regulations around AI, data privacy, and digital competition may require localization and limit its operational scope in markets like China and India.",
+    "pred_answer": "Based on the information provided in Alphabet's 10-K filing, the company faces some regulatory challenges in international markets like China and India:\n\n1. In China and India, governments regulate Alphabet's businesses and operations through regulations and license requirements that may restrict foreign investment and operation in sectors like the internet, IT infrastructure, data centers, and retail. \n\n2. To meet local ownership, regulatory licensing, and cybersecurity requirements in China, Alphabet provides certain technology services through contractual relationships with third parties that hold Chinese licenses.\n\n3. In India, the government restricts the ownership or control of Indian companies by foreign entities involved in online multi-brand retail trading activities. For its operations there, Alphabet provides marketing and logistics services to enable third-party sellers, and holds an indirect minority interest in an entity that is a third-party seller on the Amazon.in marketplace.\n\nSo in summary, restrictions on foreign ownership and investment, local licensing requirements, and regulations around online retail activities pose challenges for Alphabet to operate its full range of businesses and services directly in major markets like China and India. The company has to structure its operations carefully to comply with the various restrictions in place.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How do geopolitical tensions influence Alphabet’s cloud expansion plans?",
+    "gold_answer": "Geopolitical issues such as sanctions and compliance requirements are cited by Alphabet as limiting factors for delivering cloud services globally, especially in highly regulated regions.",
+    "pred_answer": "Based on the information provided in Alphabet's 10-K filing, geopolitical tensions and instability can impact Alphabet's business and expansion plans in a few key ways:\n\n1. Abrupt political changes, terrorist activity, and armed conflicts like the war in Ukraine pose economic and other risks that may negatively impact Alphabet's ability to sell to and collect from customers, increase operating costs, or otherwise disrupt operations in markets directly and indirectly impacted. \n\n2. Geopolitical changes may result in changing regulatory requirements and market interventions that could impact Alphabet's operating strategies, access to markets, hiring, and profitability.\n\n3. Geopolitical instability may lead to sanctions and impact Alphabet's ability to do business in some markets or with some public-sector customers.\n\nSo in summary, while the 10-K does not speak directly about impacts on cloud expansion plans, it indicates that geopolitical tensions can disrupt operations, change regulations, limit market access, and impact public sector business - all of which could influence how and where Alphabet is able to expand its cloud business globally. The 10-K cites the Ukraine conflict as an example of the types of geopolitical events that pose risks.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is the independence ratio of Microsoft's board of directors?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "Based on the information provided in the excerpts, I did not find a specific independence ratio stated for Microsoft's board of directors. The excerpts mention some corporate governance topics like related party transactions and director independence, but do not provide the actual ratio or percentage of independent directors on Microsoft's board.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is Amazon’s approach to responsible AI development?",
+    "gold_answer": "Amazon emphasizes fairness, explainability, and security, with internal guidelines governing model use and deployment .",
+    "pred_answer": "Based on the information provided in the excerpts, Amazon does not seem to provide many specific details about its approach to responsible AI development. The excerpts mention that Amazon is involved in some legal proceedings related to its Alexa technology, but do not go into Amazon's practices around responsible AI.\n\nThe excerpts do note that there is increasing regulation and uncertainty around AI, such as the EU AI Act introducing various requirements for AI systems in the EU, and some U.S. states considering or enacting AI regulations. However, Amazon's specific stance and practices in light of this evolving regulatory landscape are not discussed.\n\nIn summary, while the excerpts touch on some AI-related legal issues Amazon is involved in and the changing regulatory environment for AI, they do not appear to contain substantive information about Amazon's own approach and practices regarding responsible AI development. More context would be needed to determine Amazon's stance and actions in this area.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft evaluate CEO performance and incentives?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Microsoft's 10-K filing, a few key points about how Microsoft evaluates CEO performance and incentives:\n\n1. Microsoft has an Executive Compensation Recovery Policy (also known as a \"clawback\" policy). This allows the company to recover incentive compensation from executives, including the CEO, in certain situations such as misconduct or if financial results are restated.\n\n2. The policy defines \"Incentive Compensation\" broadly to include any compensation granted, earned or vested based on attaining financial performance measures. This can include bonuses, equity awards, and non-equity incentive plan awards. \n\n3. The Compensation Committee of the Board of Directors has discretion to determine if misconduct has occurred that would trigger a clawback of incentive compensation from the CEO or other executives.\n\n4. Stock-based compensation, including stock awards that vest over a multi-year period, make up a significant portion of CEO and executive compensation. In fiscal 2024, Microsoft recognized $10.7 billion in total stock-based compensation expense.\n\nSo in summary, the CEO's performance and incentives are evaluated by the Board's Compensation Committee, stock awards are a key component, and incentive compensation can be clawed back in situations like misconduct or financial restatements. The specific metrics, targets and CEO compensation amounts were not detailed in the excerpted 10-K sections.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Microsoft's major goals for 2025 and beyond?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Microsoft's 2024 10-K filing, some of Microsoft's key goals and priorities for 2025 and beyond include:\n\n1. Continuing to grow their Microsoft Cloud business. Microsoft Cloud revenue increased 23% in fiscal 2024, and they aim to keep delivering innovative cloud-based solutions to meet evolving customer needs.\n\n2. Advancing their platforms and tools powered by artificial intelligence (AI) to provide innovative solutions for customers. Applying AI is called out as a key way Microsoft plans to drive insights, revolutionize work and business processes, and provide productivity gains.\n\n3. Tackling security comprehensively with integrated, end-to-end solutions spanning security, compliance, identity and management across clouds and platforms. Security is a top corporate priority for Microsoft.\n\n4. Inventing new gaming experiences that bring people together around gaming on any device, while pushing boundaries of console and PC gaming innovation. \n\n5. Using Windows to fuel their cloud business, grow PC market share, and drive engagement with Microsoft services like Edge, Bing, Teams, Microsoft 365, Xbox Game Pass and more.\n\n6. Transcending current product categories, business models and sales motions to enable future growth. Microsoft sees this as key to their future.\n\nSo in summary, their major goals center around innovating with cloud and AI technologies, while advancing key businesses like security, gaming, and Windows - with an eye towards redefining product categories and business models to position Microsoft for long-term growth. The 10-K portrays an ambitious technology vision for Microsoft in 2025 and beyond.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What major lawsuits or regulatory actions did Amazon disclose?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the legal proceedings section of Amazon's 2024 10-K, the major lawsuits and regulatory actions disclosed include:\n\n1. In May 2018, Rensselaer Polytechnic Institute and CF Dynamic Advances LLC filed a patent infringement complaint related to Alexa technology. In March 2023, the plaintiffs alleged Amazon could be subject to $140-267 million in damages if found liable. \n\n2. In December 2018, Kove IO filed a patent infringement complaint against AWS. No details on potential damages were provided.\n\n3. In July 2021, the Luxembourg National Commission for Data Protection issued a decision against an Amazon subsidiary claiming non-compliance with GDPR and imposing a €746 million fine. Amazon is defending itself.\n\n4. In December 2021, the Italian Competition Authority issued a decision against several Amazon entities claiming competition law infringements in Italy. It imposed a €1.13 billion fine which Amazon paid but is seeking to recover. \n\n5. Multiple consumer class action lawsuits were filed starting in 2020 alleging Amazon's pricing practices violate antitrust and consumer protection laws. The complaints seek billions in damages. The FTC and some state AGs filed a similar lawsuit in 2023.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft manage compliance in international markets?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the information provided in Microsoft's 10-K filing, Microsoft manages compliance in international markets in a few key ways:\n\n1. Microsoft has established a unified regulatory compliance framework to help manage compliance obligations globally. Through this framework, legal and regulatory subject matter experts ingest regulations, develop standards and implementation guidance, and work with engineers when appropriate to develop products to monitor compliance.\n\n2. Business teams at Microsoft, with legal support, manage the compliance programs and prepare external regulatory and commercial reporting. \n\n3. Microsoft's internal audit teams conduct reviews of the compliance programs and processes.\n\n4. In some cases, Microsoft tailors programs and processes to meet specific regulatory obligations in certain jurisdictions. For example, Microsoft created independent compliance functions as required by the European Union's Digital Markets Act and Digital Services Act to oversee, monitor and assess the company's compliance with those acts.\n\nSo in summary, Microsoft uses a combination of a global compliance framework, collaboration between legal/regulatory experts and business teams, audits, and jurisdiction-specific tailoring to manage the complex web of compliance obligations it faces internationally. The 10-K notes this is intended to maintain customer trust and effectively scale Microsoft's ability to address a growing number of regulations worldwide.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What risks does Microsoft cite concerning content moderation and digital safety?",
+    "gold_answer": "Microsoft emphasizes the need to protect against harmful or illegal content, especially across LinkedIn, Teams, and Bing, to avoid reputational and regulatory harm.",
+    "pred_answer": "According to Microsoft's 10-K filing, they cite the following risks related to content moderation and digital safety:\n\n1. Their hosted consumer services and enterprise services may be used to generate or disseminate harmful or illegal content in violation of their terms of service or applicable law. This content may harm their reputation or user engagement.\n\n2. They may not proactively discover such harmful content due to the scale, limitations of existing technologies, and conflicting legal frameworks. \n\n3. When discovered by users, such content may negatively impact user trust and engagement, harm Microsoft's reputation and brands, and require them to change business practices in ways that harm their business operations.\n\n4. Microsoft may be unsuccessful in efforts to enforce their policies or remediate such incidents. This could lead to additional litigation, regulatory inquiries, monetary penalties and damages.\n\n5. A series of related content moderation issues may be determined to be material in aggregate, even if not material individually, negatively impacting the company.\n\nIn summary, Microsoft views the potential misuse of their platforms to spread harmful content as a key risk that could damage their reputation, user engagement and trust, and lead to legal/regulatory issues if not adequately addressed.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What environmental initiatives did Alphabet implement in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the context provided, it does not appear that there are any specific details about environmental initiatives Alphabet implemented in 2024. The passage mentions Alphabet's sustainability goals and commitments in general terms, such as aiming to be carbon negative, water positive, and zero waste by 2030. It also notes that as of 2024, Alphabet was on track in some areas like reducing direct emissions, accelerating carbon removal, minimizing waste, and improving biodiversity. However, it was not yet on track in reducing indirect Scope 3 emissions and reducing water use in data centers. No other 2024-specific environmental actions by Alphabet are described in the given excerpts.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What risks are associated with Alphabet's integration of generative AI?",
+    "gold_answer": "Alphabet identifies challenges related to ethical misuse, regulatory oversight, and the costs involved in scaling generative AI technologies responsibly.",
+    "pred_answer": "Based on the excerpts provided, a few key risks associated with Alphabet's integration of generative AI are:\n\n1. Unintended consequences, unintended usage or customization by customers and partners that are contrary to Alphabet's responsible AI policies and practices. This could adversely affect Alphabet's reputation, competitive position, business, financial condition, and results.\n\n2. Ethical issues or broad negative impacts on society from some AI scenarios, such as impacts on human rights, privacy, employment, or other social, economic or political issues. This could also damage Alphabet's reputation and business.\n\n3. Current copyright infringement and other legal claims related to AI training and output. \n\n4. New legislation and regulations around AI, such as the EU's AI Act and the U.S.'s AI Executive Order, that could restrict Alphabet's AI development and deployment.\n\n5. Unanticipated security threats from adversaries as Alphabet adds new generative AI features to its services while still developing its understanding of security risks and protection methods in the relatively new field of generative AI.\n\nSo in summary, the key risks called out are unintended negative consequences, ethical issues, legal challenges, new regulations, and novel security threats as Alphabet rapidly integrates generative AI capabilities into its products and services.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How did Microsoft respond to competitive threats in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "The provided excerpts from Microsoft's 2024 10-K filing do not contain specific details on how Microsoft responded to competitive threats in 2024. The excerpts discuss some general risks related to competition, such as regulatory scrutiny of Microsoft's business practices and competition with OEM partners, but do not outline Microsoft's specific competitive responses during the 2024 fiscal year. I do not have enough information from the given excerpts to determine Microsoft's actions in response to competitive threats in 2024.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What risks does Amazon associate with third-party sellers?",
+    "gold_answer": "Amazon may face reputational or legal consequences if third-party sellers engage in fraud, IP violations, or unsafe product listings .",
+    "pred_answer": "Based on the information provided, Amazon identifies a few key risks associated with third-party sellers on its platform:\n\n1. Fraudulent or unlawful activities by sellers, such as collecting payments from buyers but never shipping the products, selling counterfeit, pirated or stolen goods, or otherwise violating Amazon's seller policies. This can harm Amazon's business and reputation.\n\n2. Under Amazon's A-to-z Guarantee, Amazon may have to reimburse customers, up to certain limits, if they never receive products ordered from third-party sellers or if the products are materially different than described. As third-party seller sales grow, the cost of this guarantee will increase.\n\n3. The legal liability of online service providers like Amazon for the actions of third-party sellers is currently unsettled. Government agencies could require changes to how Amazon's third-party seller business is conducted that could increase costs.\n\n4. When Amazon's policies and processes designed to prevent and police bad behavior by third-party sellers fail, it can lead to civil or criminal liability for Amazon for the unlawful activities conducted by those sellers.\n\nIn summary, the key risks are financial losses from fraud and guarantee payouts, legal liability, reputational damage, and potential costly changes to business practices related to the actions of third-party sellers on Amazon's platform.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon describe its remote or hybrid work strategy?",
+    "gold_answer": "The company plans to expand cloud services, strengthen AI offerings, and increase global market presence over the next few years.",
+    "pred_answer": "Based on the excerpts provided, there is no clear information about Amazon's remote or hybrid work strategy. The passages mention that Amazon employs a large number of full-time and part-time employees, and that it strives to be Earth's best employer by relying on initiatives like competitive pay and benefits, flexible work arrangements, and skills training programs. However, it does not go into specifics about remote work policies or the extent to which employees can work remotely versus in-office. The information provided is not detailed enough to determine Amazon's overall approach to remote or hybrid work arrangements for its workforce.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": " What services fall under Intelligent Cloud?",
+    "gold_answer": "Azure, Windows Server, Visual Studio, SQL Server, and Nuance.",
+    "pred_answer": "According to the excerpt, Microsoft's Intelligent Cloud segment primarily comprises:\n\n• Server products and cloud services, including:\n   - Azure and other cloud services\n   - SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (CALs)\n   - Nuance and GitHub\n\n• Enterprise and partner services, including:\n   - Enterprise Support Services\n   - Industry Solutions\n   - Nuance professional services \n   - Microsoft Partner Network\n   - Learning Experience\n\nSo in summary, it includes their cloud platform Azure, server products and tools, enterprise support and partner services, and some acquisitions like Nuance and GitHub.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon differentiate its product offerings?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the excerpts, Amazon differentiates its product offerings in a few key ways:\n\n1. Broad selection - Amazon designs its stores to enable hundreds of millions of unique products to be sold by Amazon and by third parties across dozens of product categories. This provides consumers with a very wide selection of products.\n\n2. Low prices - Amazon seeks to offer its customers low prices on its products. \n\n3. Convenience - Amazon focuses on providing fast and free delivery, easy-to-use functionality, and timely customer service to make the shopping experience convenient for customers. This includes offering subscription services like Amazon Prime which provides fast, free shipping and other benefits.\n\n4. Multiple channels - Customers can access Amazon's offerings through its websites, mobile apps, Alexa, devices, streaming, and by physically visiting Amazon stores. This omni-channel approach provides multiple convenient ways for customers to shop.\n\n5. Developing its own products - In addition to selling other brands, Amazon manufactures and sells its own electronic devices, including Kindle, Fire tablet, Fire TV, Echo, Ring, Blink, and eero. It also develops and produces its own media content. This allows further differentiation of its offerings.\n\nSo in summary, the key differentiators are broad selection, low prices, convenience through fast delivery and multiple channels, and unique offerings like Amazon's own devices and media content. The focus is on providing value and an easy shopping experience to consumers.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is “Other Bets” and how does it contribute?",
+    "gold_answer": "Moonshot projects like Waymo and Verily; revenues are minimal but strategic for long-term innovation.",
+    "pred_answer": "Based on the context provided, \"Other Bets\" refers to early-stage businesses within Alphabet (Google's parent company) that are separate from its core Google business. A few key points about Other Bets:\n\n- Other Bets operate as independent companies, some with their own boards and outside investors. This allows them to develop independently from the main Google business.\n\n- They are at various stages of development, from R&D phase to beginning stages of commercialization. So they represent potentially promising new business areas for Alphabet.\n\n- Revenues from Other Bets are generated primarily from the sale of healthcare-related services and internet services. \n\n- While they come with considerable uncertainty given their early stages, some are already generating revenue and making strides in their industries.\n\nSo in summary, Other Bets allows Alphabet to invest in and develop new business opportunities outside of Google's core business, with the goal of them becoming thriving, successful companies that contribute meaningfully to Alphabet's overall business in the future. They provide diversification and long-term growth potential.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What governance risks does Microsoft highlight in their 10-K?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "Based on the excerpts provided from Microsoft's FY2024 10-K filing, a few key governance risks that Microsoft highlights include:\n\n1. Competition law enforcement actions and court decisions, along with new market regulations, may result in fines or hinder Microsoft's ability to provide the benefits of its software to consumers and businesses. This could reduce the attractiveness and revenue of Microsoft's products.\n\n2. Ongoing legal analyses, reviews, and inquiries by regulators of Microsoft's practices may result in burdensome or inconsistent requirements around data sovereignty, localization, collection and use. Compliance with these data regulations could increase costs, reduce revenue and efficiency, and limit Microsoft's ability to innovate in some jurisdictions.\n\n3. Microsoft's insider trading policy prohibits employees from trading in options, puts, calls or other derivative instruments related to Microsoft stock or debt, as this could create the appearance of inappropriate short-term or speculative transactions. Insiders are also prohibited from purchasing Microsoft stock on margin, borrowing against it, or pledging it as collateral for loans.\n\n4. While not explicitly called out as a governance risk, the 10-K mentions Microsoft's culture embeds security as a priority for every employee across the organization, hinting at the importance placed on proper governance around cybersecurity.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How do macroeconomic fluctuations influence Microsoft’s commercial cloud business?",
+    "gold_answer": "Customers may delay digital transformation projects during downturns, which could reduce demand for Azure, Dynamics, and Office 365.",
+    "pred_answer": "Based on the information provided in Microsoft's 10-K, aggregate demand for Microsoft's software, services, and devices is correlated to global macroeconomic factors, which remain dynamic. \n\nThe 10-K states:\n\n\"The markets for software, devices, and cloud-based services are dynamic and highly competitive. Our competitors are developing new software and devices, while also deploying competing cloud-based services for consumers and businesses. The devices and form factors customers prefer evolve rapidly, influencing how users access services in the cloud and, in some cases, the user's choice of which suite of cloud-based services to use. Aggregate demand for our software, services, and devices is also correlated to global macroeconomic and geopolitical factors, which remain dynamic.\"\n\nSo in summary, macroeconomic fluctuations can influence customer demand and preferences for Microsoft's commercial cloud offerings compared to competitors. When macroeconomic conditions are challenging, it may impact the overall demand and revenue growth for Microsoft's cloud business. However, the 10-K does not provide specifics on exactly how sensitive Microsoft's commercial cloud revenue is to macroeconomic changes.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What legal contingencies are noted by Amazon in the 10-K?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the excerpts from Amazon's 10-K, a few key legal contingencies are noted:\n\n1. In May 2018, Rensselaer Polytechnic Institute and CF Dynamic Advances LLC filed a patent infringement complaint against Amazon related to Alexa technology. In March 2024, the district court granted summary judgment ruling the patent is invalid and dismissed the case, but the plaintiffs have filed an appeal. Amazon disputes the allegations and plans to defend itself vigorously.\n\n2. In December 2018, Kove IO, Inc. filed a complaint against Amazon Web Services for patent infringement. The excerpt does not provide the current status of this case.\n\n3. Amazon faces a number of open investigations based on claims that aspects of its operations, including its stores, fulfillment network, Prime, and certain AWS cloud services, infringe on competition or consumer protection rules. Amazon strongly disputes these claims and intends to defend itself. \n\n4. Amazon is disputing various claims and potential claims related to non-income taxes like sales, value-added, consumption and service taxes. The final outcome may differ from Amazon's expectations due to the complexity and uncertainty of the matters.\n\nSo in summary, the key contingencies noted are intellectual property litigation, antitrust and consumer protection investigations, and tax disputes and potential claims.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Alphabet ensure employee well-being?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "Based on the information provided in the excerpt, Alphabet takes several steps to support employee well-being and create a positive work environment:\n\n1. They work hard to create an environment where employees can have fulfilling careers, and be happy, healthy, and perform at a high level. \n\n2. Alphabet offers industry-leading benefits and programs to take care of the diverse needs of employees and their families. This includes opportunities for career growth and development, resources to support financial health, and access to excellent healthcare choices.\n\n3. They provide competitive compensation programs to attract and retain key talent. Alphabet invests in recruiting talented people and rewarding them well.\n\n4. The company provides high quality training and support to managers to build their capabilities, including courses for new managers, learning resources to help provide feedback and manage performance, and coaching/individual support. \n\n5. Alphabet has work councils and statutory employee representation in certain countries, and is committed to supporting protected labor rights, maintaining an open culture, and listening to all employees. They view supporting healthy and open dialogue as central to how they work.\n\nIn summary, Alphabet focuses on providing strong benefits, growth opportunities, competitive pay, management training, and open communication to promote the well-being and engagement of their workforce.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Which new technologies did Amazon focus on developing?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided, some of the key new technologies Amazon focused on developing included:\n\n- Advances in artificial intelligence (AI) and machine learning to improve the user experience on the internet. The passage states \"We believe that advances in technology, specifically the speed and reduced cost of processing power, data storage and analytics, improved wireless connectivity, and the practical applications of artificial intelligence and machine learning, will continue to improve users' experience on the internet and increase its ubiquity in people's lives. To best take advantage of these continued advances in technology, we are investing in AWS, which offers a broad set of on-demand technology services, including compute, storage, database, analytics, and machine learning...\"\n\n- Safety technologies and engineering solutions to improve safety for employees. It mentions \"We also continue to invest in safety improvements such as capital improvements, new safety technology, vehicle safety controls, and engineering ergonomic solutions.\"\n\nSo in summary, the key areas of technological development called out are AI/machine learning, AWS cloud services, and safety technologies. The passage indicates Amazon is investing significantly in these areas to enhance the customer experience and improve operations.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon protect its intellectual property?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "According to Amazon's 10-K filing, they protect their intellectual property in several ways:\n\n1. They work actively in the U.S. and internationally to ensure the enforcement of copyright, trademark, trade secret, and other protections that apply to their software, hardware, services, business plans, and branding.\n\n2. They have a large patent portfolio, with over 63,000 U.S. and international patents issued and over 23,000 pending worldwide as of the filing date. They employ much of this internally-developed IP in their own products and services.\n\n3. They also engage in outbound licensing of specific patented technologies that are incorporated into licensees' products. \n\n4. At times they enter into broader cross-license agreements with other technology companies covering entire groups of patents.\n\n5. They may purchase or license technology that they incorporate into their products and services.\n\n6. In some cases, they make select IP broadly available at low or no cost to achieve strategic objectives, such as promoting industry standards, interoperability, or attracting developers.\n\nSo in summary, Amazon uses a multi-pronged approach including patents, trademarks, copyrights, licensing, and selective sharing to protect and leverage the intellectual property it has developed. However, they note that even with these efforts, they cannot always prevent infringement or misappropriation of their IP rights by third parties.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How much did Alphabet spend on innovation initiatives?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "The information provided does not specify how much Alphabet spent on innovation initiatives. The excerpt mentions that Alphabet has \"centralized certain AI-related research and development which is reported in Alphabet-level activities\", but it does not provide any dollar amounts for this spending. Without more specific financial details, I do not have enough information to determine Alphabet's total spending on innovation initiatives.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What geopolitical risks does Microsoft associate with its cloud business in China and India?",
+    "gold_answer": "Microsoft acknowledges that operations in China and India are subject to government regulations, geopolitical tensions, and data localization mandates that may restrict cloud service delivery .",
+    "pred_answer": "According to the 10-K filing, Microsoft faces the following geopolitical risks related to its cloud business in China and India:\n\n- China and India regulate Amazon's and its affiliates' businesses and operations in country through regulations and license requirements that may restrict foreign investment in and operation of the internet, IT infrastructure, data centers, retail, delivery, and other sectors.\n\n- In order to meet local ownership, regulatory licensing, and cybersecurity requirements, Microsoft provides certain technology services in China through contractual relationships with third parties that hold PRC licenses to provide services. \n\n- In India, the government restricts the ownership or control of Indian companies by foreign entities involved in online multi-brand retail trading activities. For its www.amazon.in business, Amazon provides certain marketing tools and logistics services to third-party sellers to enable them to sell online and deliver to customers, and Amazon holds an indirect minority interest in an entity that is a third-party seller on the www.amazon.in marketplace.\n\nSo in summary, regulations in China and India restrict foreign ownership and require Microsoft to structure its operations through local partnerships and entities in order to comply with licensing and other requirements. This introduces risks and limitations on Microsoft's direct control over its business in those countries.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Alphabet monetize YouTube outside of ads?",
+    "gold_answer": " Via subscriptions (YouTube Music, Premium), Pay-per-view events, and sports licensing (e.g., NFL Sunday Ticket).",
+    "pred_answer": "According to the information provided, Alphabet monetizes YouTube primarily through advertising, which includes both brand advertising and direct response advertising products. The passage does not mention any significant ways that Alphabet monetizes YouTube outside of advertising.\n\nThe key relevant details are:\n\n- YouTube ads revenues come from \"our brand advertising products followed by our direct response advertising products, both of which benefited from increased spending by our advertisers.\"\n\n- Google Services generates revenues primarily by delivering performance and brand advertising on properties including YouTube. \n\n- Performance advertising delivers relevant ads that users click on, leading to direct engagement with advertisers.\n\n- Brand advertising helps enhance awareness of advertisers' products through videos, text, images and other interactive ads.\n\nSo in summary, the passage indicates YouTube is monetized through advertising, but does not provide information about Alphabet generating significant YouTube revenues outside of ads.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What role does advertising play in Amazon’s business model?",
+    "gold_answer": "It is a fast-growing segment ($47B+), driven by sponsored listings and performance-based placements on Amazon.com and Fire TV .",
+    "pred_answer": "Based on the information provided, advertising plays an important role in Amazon's business model:\n\n1. Amazon provides advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising. \n\n2. Advertising is listed as one of Amazon's key revenue streams, along with online stores, third-party seller services, subscription services, AWS, and other offerings.\n\n3. The excerpt states: \"Advertising services - We provide advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising. Revenue is recognized as ads are delivered based on the number of clicks or impressions.\"\n\nSo while advertising may not be Amazon's primary business like it is for Google, it still represents an important part of Amazon's diversified revenue model, allowing the company to monetize its large customer base and traffic by offering advertising solutions to third-party sellers and brands. However, the exact percentage advertising contributes to Amazon's total revenue is not provided in the given information.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Amazon's major goals for 2025 and beyond?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Amazon's 2024 10-K report, a few key goals and focus areas for 2025 and beyond seem to be:\n\n1. Continuing to invest in and grow their fulfillment network to accommodate greater selection, inventory levels, and anticipated shipment volumes. The 10-K mentions they regularly evaluate their fulfillment facility requirements.\n\n2. Making investments in technology and infrastructure, including research and development of new products/services, and infrastructure to support AWS and other Amazon businesses. This reflects their goal to continue offering a wide variety of innovative products and services to customers.\n\n3. Focusing on sustainability initiatives, though the 10-K notes they are not yet on track in a couple areas - reducing Scope 3 emissions and reducing water usage in data centers. It states they are working to identify additional breakthroughs needed in these areas.\n\n4. Striving to be Earth's best employer through talent development initiatives like competitive pay, flexible work arrangements, skills training and education programs. Over 240,000 employees have participated in their Career Choice education program so far.\n\n5. Defending themselves vigorously against ongoing legal matters and regulatory scrutiny in the U.S. and abroad, which could impact the business.\n\nSo in summary, key priorities appear to be growth and innovation, operational excellence, sustainability, and attracting top talent, while navigating legal and regulatory challenges. However, the 10-K cautions that actual results may differ from their expectations.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Does Microsoft face any antitrust scrutiny?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Yes, Microsoft faces antitrust scrutiny from government agencies in the U.S. and other countries. A few key points from the 10-K:\n\n- Government agencies closely scrutinize Microsoft under U.S. and foreign competition laws. Governments are actively enforcing competition laws and regulations, including in the EU, UK, U.S., and China.\n\n- The European Commission has designated Windows and LinkedIn as core platform services subject to obligations under the EU Digital Markets Act, which prohibits certain self-preferencing behaviors and places limitations on certain data use. \n\n- The European Commission continues to closely scrutinize the design of high-volume Microsoft products and the terms on which Microsoft makes certain technologies used in these products available to other companies. Flagship products like Microsoft 365 and Windows can receive significant scrutiny under EU or other competition laws.\n\n- Microsoft is subject to formal and informal inquiries, investigations, and litigation on various competition matters by regulatory authorities and private parties in the U.S., Europe, and other jurisdictions globally.\n\nSo in summary, antitrust enforcement actions, investigations, and regulations targeting Microsoft's business practices are an ongoing legal risk the company faces, particularly in the U.S. and Europe. Government scrutiny of its market power and competitive practices remains high.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Microsoft's major goals for 2025 and beyond?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Microsoft's 2024 10-K filing, some of Microsoft's key goals and priorities for 2025 and beyond include:\n\n1. Continuing to grow their Microsoft Cloud business. Microsoft Cloud revenue increased 23% in fiscal 2024, and they aim to keep delivering innovative cloud solutions to meet evolving customer needs.\n\n2. Advancing their platforms and tools powered by artificial intelligence (AI) to deliver new experiences and opportunities for businesses and individuals. Applying AI is called out as a key way they plan to drive insights and productivity gains.\n\n3. Tackling security comprehensively with integrated, end-to-end solutions spanning security, compliance, identity and management across clouds and platforms. Security is a top corporate priority.\n\n4. Inventing new gaming experiences that bring people together around gaming on any device, while pushing boundaries of console and PC gaming innovation. \n\n5. Using Windows to fuel cloud business growth, increase PC market share, and drive engagement with Microsoft services like Edge, Bing, Teams, Microsoft 365 Consumer and more.\n\n6. Transcending current product categories, business models and sales motions to enable future growth. Adaptability seems key to their forward-looking strategy.\n\nSo in summary, their major goals center around AI innovation, cloud growth, comprehensive security solutions, gaming leadership, synergies between Windows and their cloud and service offerings, and business agility to pursue new opportunities. The overarching aim is empowering people and organizations globally with ever-evolving digital technologies.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon ensure employee well-being?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "Based on the information provided, Amazon takes several steps to promote employee well-being:\n\n1. They strive to be \"Earth's best employer\" and rely on numerous initiatives to implement this objective, including competitive pay and benefits, flexible work arrangements, and skills training and educational programs like Amazon Career Choice. Over 240,000 Amazon employees worldwide have participated in Career Choice.\n\n2. They continue to inspect and refine the mechanisms used to hire, develop, evaluate, and retain employees. \n\n3. Safety is described as integral to everything Amazon does. They continue to invest in safety improvements such as capital improvements, new safety technology, vehicle safety controls, and engineering ergonomic solutions. \n\n4. Amazon has a dedicated safety team that uses the science of safety to solve complex problems and establish new industry best practices.\n\n5. They provide mentorship and support resources to employees, and have deployed programs that advance employee engagement, communication, and feedback.\n\nSo in summary, Amazon focuses on competitive compensation, skills development, workplace safety, and employee engagement and support as key elements of promoting employee well-being. However, the information provided does not include specific metrics on employee satisfaction or well-being to assess the effectiveness of these initiatives.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Microsoft have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "The excerpts provided do not contain information about the total number of Microsoft employees at the end of fiscal year 2024. The employee count is not listed in the overview or highlights sections discussing Microsoft's fiscal 2024 results compared to 2023.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How many employees did Microsoft have at the end of 2024?",
+    "gold_answer": "The company emphasizes employee health, benefits, and development programs, alongside flexible work arrangements.",
+    "pred_answer": "The excerpts provided do not contain information about the total number of Microsoft employees at the end of fiscal year 2024. The employee count is not listed in the overview or highlights sections discussing Microsoft's fiscal 2024 results compared to 2023.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Microsoft’s three primary business segments?",
+    "gold_answer": "Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.",
+    "pred_answer": "According to the 10-K filing, Microsoft's three primary business segments are:\n\n1. Productivity and Business Processes - This segment includes products and services in Microsoft's productivity, communication, and information services portfolio, such as Office Commercial, Office Consumer, LinkedIn, and Dynamics.\n\n2. Intelligent Cloud - This segment includes Microsoft's public, private, and hybrid server products and cloud services, such as Azure, SQL Server, Windows Server, Visual Studio, and Enterprise Services. \n\n3. More Personal Computing - This segment includes products and services aimed at harmonizing the interests of end users, developers, and IT professionals across screens of all sizes. Key offerings include Windows, Gaming, Search and news advertising, and devices.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is Microsoft’s position on operational disruption risk?",
+    "gold_answer": "Microsoft identifies cloud downtime, natural disasters, and global outages as major risks to both infrastructure and customer trust.",
+    "pred_answer": "Based on the excerpts from Microsoft's 10-K filing, Microsoft acknowledges that interruptions, interference or failures of their complex information technology and communications systems could hurt their ability to effectively provide products and services, harming their reputation, financial condition and operating results.\n\nSome key points about Microsoft's position on operational disruption risk:\n\n- Their systems are vulnerable to damage, interference or interruption from things like terrorist attacks, natural disasters, power outages, telecommunications failures, cyber attacks, etc. \n\n- Some of their data centers are located in areas with high risk of major earthquakes or other natural disasters. Data centers are also subject to break-ins, sabotage and vandalism.\n\n- Failure to prevent, detect or address defects in their complex hardware products like Xbox and Surface could result in recalls, safety alerts or product liability claims that could adversely impact the business.\n\nSo in summary, Microsoft recognizes operational disruption from IT system failures, natural disasters impacting data centers, and product defects as material risk factors that could significantly harm their ability to deliver products and services if those disruptions were to occur. Managing this risk appears to be an important priority for the company.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Does Alphabet report any changes in executive compensation policy?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Yes, the exhibit list in the 10-K filing indicates that Alphabet has a Clawback Policy (exhibit 97.01) that was filed with the previous year's 10-K on January 31, 2024. A clawback policy allows a company to recover compensation from executives under certain circumstances, such as in the case of a financial restatement. The inclusion of this exhibit suggests Alphabet implemented or made changes to its executive compensation recovery policy in 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How is Microsoft investing to support future expansion?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Microsoft's 10-K filing, the company is investing in several key areas to support future expansion:\n\n1. Cloud computing - Microsoft continues to invest significantly in its cloud infrastructure and services like Azure to drive future growth. The filing mentions investments in areas with transformative potential for cloud computing like quantum computing and advanced AI.\n\n2. Artificial Intelligence (AI) - Microsoft has established a dedicated Microsoft AI group focused on delivering consumer AI experiences and developing advanced AI models. AI is called out as a key area of investment.\n\n3. Security - The Microsoft Security group is investing in a comprehensive portfolio of security services to protect customers' digital infrastructure. \n\n4. Research & Innovation - The Technology and Research group, which includes Microsoft Research, is investing in fundamental research, product incubations, and forward-looking AI innovations spanning infrastructure, services and applications.\n\n5. Gaming - The Gaming segment is investing in developing hardware, content and services across a range of gaming platforms to expand Microsoft's presence in the gaming market.\n\nSo in summary, the major investment themes called out are cloud, AI, security, research and innovation, and gaming - all of which Microsoft sees as critical to enabling future expansion of its business. The company is dedicating significant resources to these high-potential growth areas.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Microsoft's main sustainability priorities?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in Microsoft's 2024 Form 10-K, Microsoft's main sustainability priorities are:\n\n1. Being carbon negative, water positive, and zero waste by 2030. In 2020, Microsoft committed to achieving these goals for its own business operations.\n\n2. Improving biodiversity and protecting more land than it uses. \n\n3. Reducing its indirect emissions (Scope 3). The 10-K notes this is an area where Microsoft is not yet on track and is working to identify additional breakthroughs.\n\n4. Reducing water use and replenishing more water than it consumes in its datacenter operations. This is another area highlighted where Microsoft is not yet meeting its goals and is working to make progress.\n\nSo in summary, Microsoft's key sustainability focus areas are its carbon footprint, water usage, waste reduction, land use and biodiversity, with an emphasis on its own operations as well as its indirect Scope 3 emissions. The 10-K acknowledges challenges in fully meeting its Scope 3 emissions reduction and water replenishment goals.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How is Alphabet using its Gemini AI models across its products?",
+    "gold_answer": "Alphabet integrates Gemini into Search, Ads, Chrome, Workspace (as Duet AI), and Pixel devices to enhance functionality across platforms.",
+    "pred_answer": "Based on the information provided in Alphabet's 10-K filing, Alphabet is using its Gemini AI models in several ways across its products:\n\n1. In Google Search - Gemini customized for Google Search is being used to provide users an improved Search experience. AI Overviews powered by Gemini have been released in over 100 countries, reaching more than 1 billion users.\n\n2. In Google Workspace - Gemini for Google Workspace is being integrated into products like Gmail, Docs, Sheets to help users write, organize, visualize, accelerate workflows, and have richer meetings. \n\n3. In YouTube - Gemini is being used to improve recommendations on YouTube for users.\n\n4. In Google Cloud - Gemini for Google Cloud is being offered as part of Google Cloud's applications portfolio to enterprise customers. \n\n5. In the Gemini app - A direct consumer interface is being developed for users to interact with Gemini models. The Gemini app team is part of Google DeepMind.\n\nSo in summary, Alphabet is leveraging its Gemini AI models to enhance user experiences and provide new AI capabilities across its major products like Search, Workspace, YouTube, Cloud and in the standalone Gemini app. The development of general Gemini models is happening centrally under Alphabet.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How much did Alphabet spend on share repurchases in 2024?",
+    "gold_answer": "$62.5 billion was spent on stock buybacks.",
+    "pred_answer": "According to the information provided, in the year ended December 31, 2024, Alphabet repurchased and subsequently retired 379 million shares for a total amount of $62.047 billion. This consisted of:\n\n- 73 million Class A shares repurchased for $11.855 billion\n- 306 million Class C shares repurchased for $50.192 billion\n\nSo in total, Alphabet spent $62.047 billion on share repurchases in 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Alphabet describe its remote or hybrid work strategy?",
+    "gold_answer": "The company plans to expand cloud services, strengthen AI offerings, and increase global market presence over the next few years.",
+    "pred_answer": "Based on the excerpts provided, I did not find any specific information about Alphabet's remote or hybrid work strategy. The excerpts discuss Alphabet's workforce and culture in general terms, such as stating they have over 183,000 employees as of December 2024, and that they aim to create an environment where employees can have fulfilling careers and be happy, healthy and perform at a high level. However, there are no details provided about remote work policies or a hybrid work approach.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How is Amazon addressing diversity and inclusion?",
+    "gold_answer": "The company outlines diversity goals and provides workforce demographic data, aiming to improve representation and inclusion across all levels.",
+    "pred_answer": "Based on the information provided in Amazon's 2024 10-K report, Amazon is taking the following actions related to diversity and inclusion:\n\n- Diversity and inclusion are stated to be core to Amazon's business. \n\n- Amazon monitors pay equity and career progress across multiple dimensions, as reported in their Global Diversity and Inclusion Reports.\n\n- Amazon encourages every employee to play an active role in creating an inclusive environment.\n\nHowever, the 10-K does not provide extensive details on Amazon's specific diversity and inclusion programs and initiatives. The report focuses more on stating diversity and inclusion as important priorities for the company, without elaborating on many concrete actions being taken to address them as of 2024. Additional information may be available in Amazon's Global Diversity and Inclusion Reports that are referenced, but details from those reports are not included in this 10-K filing.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What major lawsuits or regulatory actions did Amazon disclose?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the excerpts from Amazon's 2024 10-K filing, the company disclosed the following major lawsuits and regulatory actions:\n\n1. In May 2018, Rensselaer Polytechnic Institute and CF Dynamic Advances LLC filed a patent infringement complaint against Amazon related to Alexa technology. The plaintiffs are seeking $140-267 million in damages. \n\n2. In December 2018, Kove IO, Inc. filed a patent infringement complaint against Amazon Web Services. The details of the complaint and potential damages are not provided.\n\n3. Amazon faces a number of open investigations in the U.S. and Europe based on claims that aspects of its operations, including its stores, fulfillment network, Prime, and AWS cloud services, infringe on competition or consumer protection rules. \n\n4. In July 2021, the Luxembourg National Commission for Data Protection issued a decision against an Amazon subsidiary claiming non-compliance with GDPR and imposing a €746 million fine.\n\n5. In December 2021, the Italian Competition Authority issued a decision against several Amazon subsidiaries claiming certain marketplace and logistics practices in Italy infringe EU competition rules. It imposed a €1.13 billion fine.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What are Alphabet’s three reported business segments?",
+    "gold_answer": "Google Services, Google Cloud, and Other Bets.",
+    "pred_answer": "According to the notes to Alphabet's consolidated financial statements, Alphabet reports its business in three segments:\n\n1. Google Services\n2. Google Cloud  \n3. Other Bets\n\nSpecifically, the notes state:\n\n\"Alphabet is a collection of businesses — the largest of which is Google. We report Google in two segments, Google Services and Google Cloud, and all non-Google businesses collectively as Other Bets.\"",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What regulatory challenges could affect Microsoft’s AI and cloud offerings?",
+    "gold_answer": "Microsoft cites the rapid emergence of global AI regulations as a compliance and operational risk, particularly in cloud and enterprise services.",
+    "pred_answer": "Based on the information provided in the context, there are a few key regulatory challenges that could affect Microsoft's AI and cloud offerings:\n\n1. New and proposed laws and regulations focused specifically on the development, use, and provision of AI technologies, such as the EU AI Act which will start to take effect in 2024. This could result in monetary penalties or other regulatory actions that impact Microsoft's AI offerings.\n\n2. Evolving data protection, cybersecurity, privacy, and intellectual property laws that affect the collection, use, location, and management of customer and employee data used in AI and cloud services. Compliance with these regulations could increase costs and limit innovation for cloud and AI features and functionality.\n\n3. Increased regulatory scrutiny, investigations, and potential legal liability related to AI systems and algorithms, if they are found to be flawed, biased, offensive, inaccurate or cause harm. This could arise from existing laws or new AI-specific legislation.\n\n4. Requirements to make capital investments, build localized products, or meet specific sovereign operating requirements in order to deliver cloud services in certain countries. \n\n5. Government audits, cost reviews, and compliance risks particularly related to serving financial services, healthcare, and public sector cloud customers.\n\nSo in summary, the rapidly evolving landscape of AI-specific and data-related laws, increased regulatory oversight, and country-specific requirements could constrain or add substantial costs and liability risks to Microsoft's strategic AI and cloud businesses. Proactively addressing these challenges will be important for the company's continued growth in these areas.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft manage compliance in international markets?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the information provided in Microsoft's 10-K filing, Microsoft manages compliance in international markets in a few key ways:\n\n1. Microsoft has established a unified compliance framework to help manage the growing number of complex regulations around the globe. Through this framework, legal and regulatory subject matter experts ingest regulations, develop standards and implementation guidance, and work with engineers when appropriate to develop products to monitor compliance.\n\n2. Business teams at Microsoft, with legal support, manage the compliance programs and prepare external regulatory and commercial reporting. \n\n3. Microsoft's internal audit teams conduct reviews of the compliance programs and processes.\n\n4. In some cases, Microsoft tailors programs and processes to meet specific regulatory obligations. For example, Microsoft created independent compliance functions as required by the European Union Digital Markets Act and Digital Services Act to oversee, monitor and assess the company's compliance with those acts.\n\nSo in summary, Microsoft uses a combination of a unified compliance framework, collaboration between legal experts and business teams, audits, and in some cases specially tailored compliance functions to manage the complex international regulatory environment it operates in. The 10-K highlights efforts in the EU as an example.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What was Amazon’s spending on technology and content in 2024?",
+    "gold_answer": "Amazon spent $94.1 billion on technology and content, including infrastructure, R&D, and media-related costs.",
+    "pred_answer": "According to the information provided, Amazon's total video and music expense, which includes spending on technology and content, was $20.4 billion for the year ended December 31, 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Amazon describe geopolitical risks impacting AWS?",
+    "gold_answer": "AWS’s global operations are exposed to risks from trade tensions, sanctions, and changing foreign regulations, which can limit or delay its ability to offer services internationally .",
+    "pred_answer": "Based on the excerpts provided, Amazon mentions that abrupt political change, terrorist activity, and armed conflict, such as the ongoing conflict in Ukraine, pose economic and other risks which may negatively impact Amazon's ability to sell to and collect from customers, increase operating costs, or otherwise disrupt operations in markets both directly and indirectly impacted by such events. \n\nGeopolitical instability may lead to sanctions and impact Amazon's ability to do business in some markets or with some public-sector customers. Any of these changes may negatively affect Amazon's results of operations.\n\nHowever, the excerpts do not appear to specifically discuss how these geopolitical risks impact the AWS business segment. The discussion seems to be about risks to Amazon's business overall rather than AWS specifically.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What industry trends could threaten Amazon's future growth?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided, a few key industry trends that could potentially threaten Amazon's future growth include:\n\n1. Increasing competition, especially in areas like cloud services, advertising, and new/emerging technologies. The risk factors mention that Amazon's revenue growth rate could decline due to competition.\n\n2. Downward pressure on operating margins due to factors like pricing competition, increasing costs, and shifts to lower priced products and services. This could impact Amazon's profitability.\n\n3. Failure of new products, services and investment areas to be successful. The document notes Amazon's investments in new and evolving offerings involve inherent risks and may not achieve sufficient profitability. \n\n4. Challenges expanding internationally into developing markets, which present risks including greater difficulty in enforcing contracts and intellectual property rights.\n\n5. Economic and geopolitical risks that could adversely impact results, since a significant portion of Amazon's revenue comes from international sales. Global and regional economic conditions, inflation, recession, and political/military disputes are cited as potential threats.\n\nSo in summary, intensifying competition, pressure on margins, unsuccessful innovations, challenges in international markets, and the macro economic environment seem to be some of the key industry-related factors called out as potential risks to Amazon's growth trajectory based on this excerpt from their 10-K risk factors.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Which new technologies did Microsoft focus on developing?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the information provided in the excerpts, Microsoft focused its research and development efforts on a few key areas:\n\n1. Digital work and life experiences\n2. Cloud computing \n3. Artificial intelligence (AI)\n4. Devices\n5. Operating systems\n\nThe excerpt states that Microsoft maintains a \"long-term commitment to research and development across a wide spectrum of technologies, tools, and platforms\" spanning these areas. It also mentions continuing to support fundamental research to provide perspective on future trends and contribute to innovation.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What major lawsuits or regulatory actions did Amazon disclose?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Based on the legal proceedings section in Amazon's 10-K, the major lawsuits and regulatory actions disclosed include:\n\n1. In May 2018, Rensselaer Polytechnic Institute and CF Dynamic Advances LLC filed a patent infringement complaint against Amazon related to Alexa technology. The plaintiffs are alleging damages of $140-267 million in the event Amazon is found liable.\n\n2. In December 2018, Kove IO, Inc. filed a patent infringement complaint against Amazon Web Services related to data storage technology. No specific damages amount was disclosed.\n\n3. Several antitrust lawsuits were filed against Amazon by the FTC, state Attorneys General, and private parties alleging Amazon has a monopoly in online retail markets. The complaints are seeking billions in damages. \n\n4. In July 2021, the Luxembourg National Commission for Data Protection issued a decision against an Amazon subsidiary claiming non-compliance with GDPR and imposing a €746 million fine.\n\n5. In December 2021, the Italian Competition Authority issued a decision against several Amazon subsidiaries claiming infringement of EU competition rules and imposing a €1.13 billion fine.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How does Microsoft assess the risk of AI misuse?",
+    "gold_answer": "It identifies potential harms from model hallucinations, misuse of generative AI, and lack of interpretability, especially in high-stakes applications.",
+    "pred_answer": "Based on the information provided in the 10-K filing excerpts, Microsoft assesses several risks related to potential AI misuse:\n\n1. AI algorithms or training methodologies may be flawed, leading to unintended or harmful outputs.\n\n2. Datasets used to train AI may be overbroad, insufficient, or contain biased information. This could result in biased or inaccurate AI systems.\n\n3. Content generated by AI systems may be offensive, illegal, inaccurate, or otherwise harmful if not properly developed and deployed. \n\n4. Ineffective or inadequate AI development or deployment practices by Microsoft or others could impair the acceptance of AI solutions, cause harm to individuals, customers, or society, or result in Microsoft's AI products not working as intended.\n\n5. Microsoft's implementation of AI systems could result in legal liability, regulatory action, brand and reputational harm, or other adverse impacts if not done responsibly.\n\n6. There are risks arising from current and proposed AI legislation and regulations, such as the EU's AI Act, that introduce various requirements Microsoft will need to comply with for its AI systems and models.\n\nSo in summary, Microsoft appears to be assessing risks around flawed AI models, biased data, irresponsible development practices, harmful AI-generated content, legal/regulatory issues, and potential reputational damage from AI misuse. Mitigating these risks is important as Microsoft increasingly incorporates AI across its products and services.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "Does Amazon report any changes in executive compensation policy?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Based on the excerpts provided, there is no mention of any specific changes to Amazon's executive compensation policy. The 10-K filing discusses some executive compensation related items, such as:\n\n- It mentions that information required by Item 11 on Executive Compensation is included in Amazon's Proxy Statement and incorporated by reference. \n\n- It lists the named executive officers including the CEO, CFO and other senior executives.\n\nHowever, the excerpts do not detail any amendments or changes being made to Amazon's executive compensation policies or practices compared to prior years. The full 10-K or proxy statement may provide more details, but the given excerpts alone do not report any specific policy changes around executive compensation at Amazon.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What’s Microsoft’s approach to supporting small businesses with AI?",
+    "gold_answer": "Microsoft enables AI-enhanced capabilities in Office 365, Dynamics, and Power Platform tailored for SMBs.",
+    "pred_answer": "Based on the information provided, Microsoft aims to democratize AI and make it broadly available to empower every person and organization, including small businesses. A few key points about Microsoft's approach to supporting small businesses with AI:\n\n- Microsoft offers an array of AI services through Azure that allow businesses to build, deploy and manage AI applications. This enables small businesses to leverage AI capabilities without needing to manage complex infrastructure themselves.\n\n- Microsoft strives to make AI responsibly designed and built with safety and security from the outset. This helps small businesses adopt AI with greater confidence.\n\n- Through direct sales programs and partner networks, Microsoft targets offerings to reach small and medium sized business customers, not just large enterprises. \n\n- Microsoft has launched AI skills initiatives to help people learn foundations of AI, including through LinkedIn learning pathways. This can help small business employees build relevant AI skills.\n\nHowever, the provided information does not go into extensive specifics on programs, offerings or initiatives uniquely tailored for small businesses adopting AI. The overall approach seems to be democratizing access to AI capabilities that businesses of all sizes can leverage, rather than a small business-specific AI strategy. But enabling small business adoption appears to be part of Microsoft's broader vision of empowering every organization with AI.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is Amazon’s reported free cash flow in 2024?",
+    "gold_answer": "$32.2 billion for the trailing twelve months, up from $12.3 billion in 2023 .",
+    "pred_answer": "Based on the Consolidated Statements of Cash Flows provided, Amazon's free cash flow for the year ended December 31, 2024 can be calculated as:\n\nNet cash provided by operating activities: $115,877 million\nLess: Purchases of property and equipment: ($82,999 million)\nPlus: Proceeds from property and equipment sales and incentives: $5,341 million\n\nTherefore, Amazon's free cash flow in 2024 was $115,877 million - $82,999 million + $5,341 million = $38,219 million.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What is the largest revenue driver within Google Services?",
+    "gold_answer": "Advertising — including Google Search, YouTube ads, and Network Partner ads.",
+    "pred_answer": "Based on the disaggregated revenue information provided in the context, Google advertising is the largest revenue driver within Google Services. Specifically, the note states:\n\n\"Google advertising  224,473  237,855  264,590 \nGoogle subscriptions, platforms, and devices  29,055  34,688  40,340 \nGoogle Services total  253,528  272,543  304,930\"\n\nGoogle advertising revenue, which includes Google Search & other, YouTube ads, and Google Network, totaled $264,590 million in 2024, making up the vast majority of the $304,930 million in total Google Services revenues that year. Google subscriptions, platforms, and devices revenue was significantly lower at $40,340 million in 2024.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "How much did Amazon spend on innovation initiatives?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "The context provided does not contain any specific information about how much Amazon spent on innovation initiatives. The financial information discusses overall research and development expenses, property and equipment additions, and cash flows, but does not break out spending on innovation initiatives specifically. I do not have enough information to determine the amount Amazon spent on innovation initiatives based solely on the excerpts given.",
+    "correct": 1,
+    "relevance": 1,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What was Amazon’s net income in 2024?",
+    "gold_answer": "$30.4 billion, a significant increase from $?2.7 billion in 2022 and $10.1 billion in 2023 .",
+    "pred_answer": "According to Amazon's Consolidated Statements of Cash Flows in the provided 10-K excerpt, Amazon's net income in 2024 was $59,248 million.",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 8
+  },
+  {
+    "question": "What governance risks does Microsoft highlight in their 10-K?",
+    "gold_answer": "The board maintains oversight of risk and strategy, with a majority of independent directors and regular governance reviews.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What is Amazon Bedrock?",
+    "gold_answer": "A service that enables customers to build generative AI applications using foundation models from AWS partners .",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What was Amazon’s total revenue in 2024?",
+    "gold_answer": "$575.1 billion, up from $524.9 billion in 2023 .",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does LinkedIn contribute to Microsoft’s revenue?",
+    "gold_answer": "Through talent solutions, advertising, and subscriptions, generating $15 billion+ in annual revenue.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What compliance risks does Amazon highlight?",
+    "gold_answer": "The company disclosed ongoing regulatory investigations and outlines risk mitigation strategies in compliance with local and international laws.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": " How is generative AI integrated into Microsoft products?",
+    "gold_answer": "Through Azure OpenAI Service and Microsoft Copilot, which combine GPT-based models with enterprise-grade controls.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What was Microsoft’s total revenue in FY 2024?",
+    "gold_answer": "$245.5 billion, up from $232.6 billion in FY 2023 .",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does Microsoft approach ethical supply chain management?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What are Alphabet’s reported long-term debts as of 2024 year-end?",
+    "gold_answer": " $13.7 billion, relatively stable year-over-year.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What portion of Amazon’s revenue comes from third-party seller services?",
+    "gold_answer": "$149.1 billion in 2024, including fulfillment fees and advertising tied to third-party listings .",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does Amazon describe the strategic role of AWS?",
+    "gold_answer": "AWS is positioned as a foundational layer for AI and enterprise digital transformation, with profitability supporting broader investments .",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "Which new technologies did Microsoft focus on developing?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What DEI (diversity, equity, inclusion) goals does Alphabet disclose?",
+    "gold_answer": "The company outlines diversity goals and provides workforce demographic data, aiming to improve representation and inclusion across all levels.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How did Alphabet’s operating margin perform in 2024?",
+    "gold_answer": "Operating margin stood at ~27.7% on operating income of $97.2 billion.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What is Microsoft’s strategy for embedding AI in its ecosystem?",
+    "gold_answer": "Microsoft is embedding AI at every layer of its technology stack to boost productivity, using tools like Copilot across Office, GitHub, Azure, and Dynamics.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How did Amazon respond to competitive threats in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How much did Microsoft spend on innovation initiatives?",
+    "gold_answer": "The company significantly invested in R&D, focusing on AI, cloud computing, and security technologies to maintain competitive advantage.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does Microsoft define its key competitors?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What legal contingencies are noted by Microsoft in the 10-K?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What long-term growth opportunities does Microsoft highlight?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "Which products are included under the Productivity and Business Processes segment?",
+    "gold_answer": "Office Commercial, Office Consumer, LinkedIn, and Dynamics.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "Does Amazon disclose its carbon footprint or climate risk?",
+    "gold_answer": "The company acknowledges climate risks and discloses initiatives to reduce emissions, including investment in renewable energy and carbon offsets.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What environmental initiatives did Microsoft implement in 2024?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does Alphabet’s AI-first strategy affect its business model?",
+    "gold_answer": "It shifts R&D spending toward generative models and drives transformation across Cloud, Ads, Search, and hardware.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What was Alphabet's cash and cash equivalents at the end of FY 2024?",
+    "gold_answer": "$24.3 billion as of December 31, 2024.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What are Amazon's strategic priorities for the next fiscal year?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "What was Microsoft’s net income for 2024?",
+    "gold_answer": "$86.6 billion, up from $72.4 billion in 2023.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does Alphabet evaluate CEO performance and incentives?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "Does Microsoft report any changes in executive compensation policy?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  },
+  {
+    "question": "How does Microsoft define its key competitors?",
+    "gold_answer": "The company addresses this topic briefly in its 10-K, highlighting relevant data, risks, or initiatives.",
+    "pred_answer": "Error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}}",
+    "correct": 0,
+    "relevance": 0,
+    "completeness": 1,
+    "sources_used": 0
+  }
+]
